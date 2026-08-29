@@ -1,0 +1,1217 @@
+Pattern	Rank	Taxon	Phylum	CF_A	CF_B	Prev_A	Prev_B	Copy_A	Copy_B	Color_Group	N_Total
+Pattern 1 (RapZ)	Phylum	Actinomycetota	Actinomycetota	CF15_17	CF15_19	97.93340987370837	0.0	-1.0058616647127785	0.0	Exclusion/Other	871
+Pattern 1 (RapZ)	Phylum	Bacillota	Bacillota	CF15_17	CF15_19	95.11002444987776	0.12224938875304998	-1.0102827763496145	1.0	Bacillota	818
+Pattern 1 (RapZ)	Phylum	Pseudomonadota	Pseudomonadota	CF15_17	CF15_19	39.425202652910826	49.29992630803242	-1.0074766355140188	1.005979073243647	Pseudomonadota	1357
+Pattern 1 (RapZ)	Phylum	Deinococcota	Deinococcota	CF15_17	CF15_19	92.85714285714286	0.0	-1.0	0.0	Exclusion/Other	28
+Pattern 1 (RapZ)	Phylum	Myxococcota	Myxococcota	CF15_17	CF15_19	82.35294117647058	17.64705882352941	-1.0	1.0	Myxococcota	17
+Pattern 1 (RapZ)	Phylum	Vulcanimicrobiota	Vulcanimicrobiota	CF15_17	CF15_19	93.33333333333333	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 1 (RapZ)	Phylum	Cyanobacteriota	Cyanobacteriota	CF15_17	CF15_19	42.85714285714285	0.0	-1.0	0.0	Exclusion/Other	14
+Pattern 1 (RapZ)	Phylum	Fusobacteriota	Fusobacteriota	CF15_17	CF15_19	83.33333333333334	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Phylum	Armatimonadota	Armatimonadota	CF15_17	CF15_19	33.33333333333333	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Phylum	Bdellovibrionota_B	Bdellovibrionota_B	CF15_17	CF15_19	66.66666666666666	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Phylum	Bacteroidota	Bacteroidota	CF15_17	CF15_19	0.21276595744680002	0.0	-1.0	0.0	Exclusion/Other	470
+Pattern 1 (RapZ)	Class	Actinomycetes	Actinomycetota	CF15_17	CF15_19	98.49812265331664	0.0	-1.0063532401524775	0.0	Exclusion/Other	799
+Pattern 1 (RapZ)	Class	Bacilli	Bacillota	CF15_17	CF15_19	96.82203389830508	0.0	-1.0109409190371992	0.0	Exclusion/Other	472
+Pattern 1 (RapZ)	Class	Gammaproteobacteria	Pseudomonadota	CF15_17	CF15_19	29.0187891440501	68.58037578288099	-1.0071942446043165	1.0060882800608828	Pseudomonadota	958
+Pattern 1 (RapZ)	Class	Alphaproteobacteria	Pseudomonadota	CF15_17	CF15_19	64.41102756892231	3.00751879699248	-1.0077821011673151	1.0	Pseudomonadota	399
+Pattern 1 (RapZ)	Class	Clostridia	Bacillota	CF15_17	CF15_19	91.33574007220217	0.3610108303249	-1.007905138339921	1.0	Bacillota	277
+Pattern 1 (RapZ)	Class	Negativicutes	Bacillota	CF15_17	CF15_19	98.46153846153848	0.0	-1.015625	0.0	Exclusion/Other	65
+Pattern 1 (RapZ)	Class	Coriobacteriia	Actinomycetota	CF15_17	CF15_19	96.49122807017544	0.0	-1.0	0.0	Exclusion/Other	57
+Pattern 1 (RapZ)	Class	Deinococci	Deinococcota	CF15_17	CF15_19	92.85714285714286	0.0	-1.0	0.0	Exclusion/Other	28
+Pattern 1 (RapZ)	Class	Xenobia	Vulcanimicrobiota	CF15_17	CF15_19	93.33333333333333	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 1 (RapZ)	Class	UBA727	Myxococcota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Class	Thermoleophilia	Actinomycetota	CF15_17	CF15_19	66.66666666666666	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Class	Sericytochromatia	Cyanobacteriota	CF15_17	CF15_19	50.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Class	Fusobacteriia	Fusobacteriota	CF15_17	CF15_19	83.33333333333334	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Class	Polyangia	Myxococcota	CF15_17	CF15_19	50.0	50.0	-1.0	1.0	Myxococcota	6
+Pattern 1 (RapZ)	Class	Fimbriimonadia	Armatimonadota	CF15_17	CF15_19	11.11111111111111	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Class	Bacteroidia	Bacteroidota	CF15_17	CF15_19	0.21276595744680002	0.0	-1.0	0.0	Exclusion/Other	470
+Pattern 1 (RapZ)	Order	Actinomycetales	Actinomycetota	CF15_17	CF15_19	98.51116625310172	0.0	-1.0100755667506298	0.0	Exclusion/Other	403
+Pattern 1 (RapZ)	Order	Mycobacteriales	Actinomycetota	CF15_17	CF15_19	98.78048780487804	0.0	-1.0030864197530864	0.0	Exclusion/Other	328
+Pattern 1 (RapZ)	Order	Burkholderiales	Pseudomonadota	CF15_17	CF15_19	95.72649572649571	0.8547008547008499	-1.0089285714285714	1.0	Pseudomonadota	234
+Pattern 1 (RapZ)	Order	Lactobacillales	Bacillota	CF15_17	CF15_19	94.21052631578948	0.0	-1.011173184357542	0.0	Exclusion/Other	190
+Pattern 1 (RapZ)	Order	Staphylococcales	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	177
+Pattern 1 (RapZ)	Order	Tissierellales	Bacillota	CF15_17	CF15_19	98.29545454545455	0.0	-1.0115606936416186	0.0	Exclusion/Other	176
+Pattern 1 (RapZ)	Order	Sphingomonadales	Pseudomonadota	CF15_17	CF15_19	93.93939393939394	5.3030303030303	-1.0080645161290325	1.0	Pseudomonadota	132
+Pattern 1 (RapZ)	Order	Rhodobacterales	Pseudomonadota	CF15_17	CF15_19	97.59036144578313	0.0	-1.0123456790123455	0.0	Exclusion/Other	83
+Pattern 1 (RapZ)	Order	Propionibacteriales	Actinomycetota	CF15_17	CF15_19	97.05882352941177	0.0	-1.0	0.0	Exclusion/Other	68
+Pattern 1 (RapZ)	Order	Bacillales	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0166666666666666	0.0	Exclusion/Other	60
+Pattern 1 (RapZ)	Order	Veillonellales	Bacillota	CF15_17	CF15_19	98.24561403508773	0.0	-1.0178571428571428	0.0	Exclusion/Other	57
+Pattern 1 (RapZ)	Order	Coriobacteriales	Actinomycetota	CF15_17	CF15_19	96.49122807017544	0.0	-1.0	0.0	Exclusion/Other	57
+Pattern 1 (RapZ)	Order	Xanthomonadales	Pseudomonadota	CF15_17	CF15_19	42.3728813559322	56.779661016949156	-1.0	1.0	Pseudomonadota	118
+Pattern 1 (RapZ)	Order	Micavibrionales	Pseudomonadota	CF15_17	CF15_19	84.21052631578947	5.26315789473684	-1.0	1.0	Pseudomonadota	38
+Pattern 1 (RapZ)	Order	Lachnospirales	Bacillota	CF15_17	CF15_19	76.92307692307693	0.0	-1.0	0.0	Exclusion/Other	39
+Pattern 1 (RapZ)	Order	Bacillales_A	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0714285714285714	0.0	Exclusion/Other	28
+Pattern 1 (RapZ)	Order	Deinococcales	Deinococcota	CF15_17	CF15_19	92.85714285714286	0.0	-1.0	0.0	Exclusion/Other	28
+Pattern 1 (RapZ)	Order	Peptostreptococcales	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 1 (RapZ)	Order	Oscillospirales	Bacillota	CF15_17	CF15_19	94.44444444444444	5.55555555555555	-1.0	1.0	Bacillota	18
+Pattern 1 (RapZ)	Order	Xenobiales	Vulcanimicrobiota	CF15_17	CF15_19	93.33333333333333	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 1 (RapZ)	Order	Acetobacterales	Pseudomonadota	CF15_17	CF15_19	90.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Order	UBA727	Myxococcota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Order	Solirubrobacterales	Actinomycetota	CF15_17	CF15_19	66.66666666666666	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Order	UBA7694	Cyanobacteriota	CF15_17	CF15_19	50.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Order	Saccharofermentanales	Bacillota	CF15_17	CF15_19	42.85714285714285	0.0	-1.0	0.0	Exclusion/Other	14
+Pattern 1 (RapZ)	Order	Fusobacteriales	Fusobacteriota	CF15_17	CF15_19	83.33333333333334	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Order	Rickettsiales	Pseudomonadota	CF15_17	CF15_19	20.0	15.0	-1.0	1.0	Pseudomonadota	20
+Pattern 1 (RapZ)	Order	Polyangiales	Myxococcota	CF15_17	CF15_19	50.0	50.0	-1.0	1.0	Myxococcota	6
+Pattern 1 (RapZ)	Order	Pseudomonadales	Pseudomonadota	CF15_17	CF15_19	0.93457943925233	98.13084112149532	-1.0	1.0	Pseudomonadota	321
+Pattern 1 (RapZ)	Order	Enterobacterales	Pseudomonadota	CF15_17	CF15_19	0.36363636363636	98.18181818181819	-1.0	1.0148148148148148	Pseudomonadota	275
+Pattern 1 (RapZ)	Order	Fimbriimonadales	Armatimonadota	CF15_17	CF15_19	11.11111111111111	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Order	Bacteroidales	Bacteroidota	CF15_17	CF15_19	0.48076923076923	0.0	-1.0	0.0	Exclusion/Other	208
+Pattern 1 (RapZ)	Family	Mycobacteriaceae	Actinomycetota	CF15_17	CF15_19	98.77300613496932	0.0	-1.0031055900621118	0.0	Exclusion/Other	326
+Pattern 1 (RapZ)	Family	Peptoniphilaceae	Bacillota	CF15_17	CF15_19	98.29545454545455	0.0	-1.0115606936416186	0.0	Exclusion/Other	176
+Pattern 1 (RapZ)	Family	Micrococcaceae	Actinomycetota	CF15_17	CF15_19	99.41176470588235	0.0	-1.0059171597633136	0.0	Exclusion/Other	170
+Pattern 1 (RapZ)	Family	Staphylococcaceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	162
+Pattern 1 (RapZ)	Family	Burkholderiaceae	Pseudomonadota	CF15_17	CF15_19	95.2054794520548	0.68493150684931	-1.0071942446043165	1.0	Pseudomonadota	146
+Pattern 1 (RapZ)	Family	Sphingomonadaceae	Pseudomonadota	CF15_17	CF15_19	93.93939393939394	5.3030303030303	-1.0080645161290325	1.0	Pseudomonadota	132
+Pattern 1 (RapZ)	Family	Rhodobacteraceae	Pseudomonadota	CF15_17	CF15_19	97.59036144578313	0.0	-1.0123456790123455	0.0	Exclusion/Other	83
+Pattern 1 (RapZ)	Family	Neisseriaceae	Pseudomonadota	CF15_17	CF15_19	95.83333333333334	1.38888888888888	-1.0144927536231885	1.0	Pseudomonadota	72
+Pattern 1 (RapZ)	Family	Actinomycetaceae	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0169491525423728	0.0	Exclusion/Other	59
+Pattern 1 (RapZ)	Family	Propionibacteriaceae	Actinomycetota	CF15_17	CF15_19	96.66666666666669	0.0	-1.0	0.0	Exclusion/Other	60
+Pattern 1 (RapZ)	Family	Microbacteriaceae	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	57
+Pattern 1 (RapZ)	Family	Streptococcaceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.02	0.0	Exclusion/Other	50
+Pattern 1 (RapZ)	Family	Bacillaceae_G	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	49
+Pattern 1 (RapZ)	Family	Dermatophilaceae	Actinomycetota	CF15_17	CF15_19	97.9591836734694	0.0	-1.0	0.0	Exclusion/Other	49
+Pattern 1 (RapZ)	Family	Xanthomonadaceae	Pseudomonadota	CF15_17	CF15_19	43.11926605504587	55.96330275229357	-1.0	1.0	Pseudomonadota	109
+Pattern 1 (RapZ)	Family	Aerococcaceae	Bacillota	CF15_17	CF15_19	95.23809523809524	0.0	-1.025	0.0	Exclusion/Other	42
+Pattern 1 (RapZ)	Family	Atopobiaceae	Actinomycetota	CF15_17	CF15_19	94.87179487179488	0.0	-1.0	0.0	Exclusion/Other	39
+Pattern 1 (RapZ)	Family	Lactobacillaceae	Bacillota	CF15_17	CF15_19	80.0	0.0	-1.0	0.0	Exclusion/Other	45
+Pattern 1 (RapZ)	Family	Bifidobacteriaceae	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0555555555555556	0.0	Exclusion/Other	36
+Pattern 1 (RapZ)	Family	Enterococcaceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	33
+Pattern 1 (RapZ)	Family	Planococcaceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0714285714285714	0.0	Exclusion/Other	28
+Pattern 1 (RapZ)	Family	Lachnospiraceae	Bacillota	CF15_17	CF15_19	75.67567567567568	0.0	-1.0	0.0	Exclusion/Other	37
+Pattern 1 (RapZ)	Family	Deinococcaceae	Deinococcota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 1 (RapZ)	Family	Micavibrionaceae	Pseudomonadota	CF15_17	CF15_19	87.5	8.33333333333333	-1.0	1.0	Pseudomonadota	24
+Pattern 1 (RapZ)	Family	Carnobacteriaceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	19
+Pattern 1 (RapZ)	Family	Dialisteraceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	18
+Pattern 1 (RapZ)	Family	Megasphaeraceae	Bacillota	CF15_17	CF15_19	93.75	0.0	-1.0	0.0	Exclusion/Other	16
+Pattern 1 (RapZ)	Family	Rhodocyclaceae	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 1 (RapZ)	Family	Negativicoccaceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0714285714285714	0.0	Exclusion/Other	14
+Pattern 1 (RapZ)	Family	JADMJV01	Vulcanimicrobiota	CF15_17	CF15_19	93.33333333333333	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 1 (RapZ)	Family	Peptostreptococcaceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 1 (RapZ)	Family	Acutalibacteraceae	Bacillota	CF15_17	CF15_19	92.30769230769232	7.69230769230769	-1.0	1.0	Bacillota	13
+Pattern 1 (RapZ)	Family	Brevibacteriaceae	Actinomycetota	CF15_17	CF15_19	92.30769230769232	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 1 (RapZ)	Family	Dermabacteraceae	Actinomycetota	CF15_17	CF15_19	80.0	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 1 (RapZ)	Family	Salinicoccaceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 1 (RapZ)	Family	VGSZ01	Myxococcota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Family	Acetobacteraceae	Pseudomonadota	CF15_17	CF15_19	90.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Family	Bacillaceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Family	Veillonellaceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Family	UBA2020	Pseudomonadota	CF15_17	CF15_19	80.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Family	Nocardioidaceae	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 1 (RapZ)	Family	Eggerthellaceae	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 1 (RapZ)	Family	JAEZZM01	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Family	Filifactoraceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Family	Anaerovoracaceae	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Family	JACMQJ01	Cyanobacteriota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Family	Solirubrobacteraceae	Actinomycetota	CF15_17	CF15_19	62.5	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 1 (RapZ)	Family	DTU023	Bacillota	CF15_17	CF15_19	83.33333333333334	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Family	Polyangiaceae	Myxococcota	CF15_17	CF15_19	50.0	50.0	-1.0	1.0	Myxococcota	6
+Pattern 1 (RapZ)	Family	Moraxellaceae	Pseudomonadota	CF15_17	CF15_19	0.96153846153846	98.07692307692308	-1.0	1.0	Pseudomonadota	208
+Pattern 1 (RapZ)	Family	Enterobacteriaceae	Pseudomonadota	CF15_17	CF15_19	0.42194092827004	98.73417721518987	-1.0	1.0128205128205128	Pseudomonadota	237
+Pattern 1 (RapZ)	Family	Fastidiosipilaceae	Bacillota	CF15_17	CF15_19	12.5	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 1 (RapZ)	Family	Porphyromonadaceae	Bacteroidota	CF15_17	CF15_19	1.47058823529411	0.0	-1.0	0.0	Exclusion/Other	68
+Pattern 1 (RapZ)	Family	Pseudomonadaceae	Pseudomonadota	CF15_17	CF15_19	0.95238095238095	99.04761904761904	-1.0	1.0	Pseudomonadota	105
+Pattern 1 (RapZ)	Genus	Corynebacterium	Actinomycetota	CF15_17	CF15_19	98.88059701492537	0.0	-1.0037735849056604	0.0	Exclusion/Other	268
+Pattern 1 (RapZ)	Genus	Staphylococcus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	145
+Pattern 1 (RapZ)	Genus	Rothia	Actinomycetota	CF15_17	CF15_19	98.63013698630137	0.0	-1.0	0.0	Exclusion/Other	73
+Pattern 1 (RapZ)	Genus	Bacillus_A	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	49
+Pattern 1 (RapZ)	Genus	Kocuria	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0217391304347827	0.0	Exclusion/Other	46
+Pattern 1 (RapZ)	Genus	Paracoccus	Pseudomonadota	CF15_17	CF15_19	97.61904761904762	0.0	-1.0	0.0	Exclusion/Other	42
+Pattern 1 (RapZ)	Genus	Cutibacterium	Actinomycetota	CF15_17	CF15_19	97.5	0.0	-1.0	0.0	Exclusion/Other	40
+Pattern 1 (RapZ)	Genus	Streptococcus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0263157894736843	0.0	Exclusion/Other	38
+Pattern 1 (RapZ)	Genus	Anaerococcus	Bacillota	CF15_17	CF15_19	97.36842105263158	0.0	-1.0	0.0	Exclusion/Other	38
+Pattern 1 (RapZ)	Genus	Microbacterium	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	37
+Pattern 1 (RapZ)	Genus	Neisseria	Pseudomonadota	CF15_17	CF15_19	94.87179487179488	0.0	-1.027027027027027	0.0	Exclusion/Other	39
+Pattern 1 (RapZ)	Genus	Bifidobacterium	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0588235294117647	0.0	Exclusion/Other	34
+Pattern 1 (RapZ)	Genus	QFNR01	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	30
+Pattern 1 (RapZ)	Genus	Lactobacillus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	30
+Pattern 1 (RapZ)	Genus	Aedoeadaptatus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0333333333333334	0.0	Exclusion/Other	30
+Pattern 1 (RapZ)	Genus	Sphingomonas	Pseudomonadota	CF15_17	CF15_19	96.66666666666669	0.0	-1.0	0.0	Exclusion/Other	30
+Pattern 1 (RapZ)	Genus	Peptoniphilus_A	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	27
+Pattern 1 (RapZ)	Genus	Micrococcus	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 1 (RapZ)	Genus	Deinococcus	Deinococcota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 1 (RapZ)	Genus	Lysinibacillus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.08	0.0	Exclusion/Other	25
+Pattern 1 (RapZ)	Genus	Finegoldia	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0416666666666667	0.0	Exclusion/Other	24
+Pattern 1 (RapZ)	Genus	Aquabacterium	Pseudomonadota	CF15_17	CF15_19	91.30434782608697	0.0	-1.0	0.0	Exclusion/Other	23
+Pattern 1 (RapZ)	Genus	Fannyhessea	Actinomycetota	CF15_17	CF15_19	95.23809523809524	0.0	-1.0	0.0	Exclusion/Other	21
+Pattern 1 (RapZ)	Genus	Sandaracinobacteroides	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.05	0.0	Exclusion/Other	20
+Pattern 1 (RapZ)	Genus	Fenollaria	Bacillota	CF15_17	CF15_19	95.0	0.0	-1.0	0.0	Exclusion/Other	20
+Pattern 1 (RapZ)	Genus	Haematobacter	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	19
+Pattern 1 (RapZ)	Genus	Stenotrophomonas	Pseudomonadota	CF15_17	CF15_19	47.36842105263157	50.0	-1.0	1.0	Pseudomonadota	38
+Pattern 1 (RapZ)	Genus	Dialister	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	18
+Pattern 1 (RapZ)	Genus	Aquincola	Pseudomonadota	CF15_17	CF15_19	94.73684210526316	0.0	-1.0	0.0	Exclusion/Other	19
+Pattern 1 (RapZ)	Genus	Mobiluncus	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0588235294117647	0.0	Exclusion/Other	17
+Pattern 1 (RapZ)	Genus	Enterococcus_B	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 1 (RapZ)	Genus	Aerococcus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	16
+Pattern 1 (RapZ)	Genus	Gordonia	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	16
+Pattern 1 (RapZ)	Genus	Telluria	Pseudomonadota	CF15_17	CF15_19	88.88888888888889	5.55555555555555	-1.0625	1.0	Pseudomonadota	18
+Pattern 1 (RapZ)	Genus	Mycobacterium	Actinomycetota	CF15_17	CF15_19	94.11764705882352	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 1 (RapZ)	Genus	Ottowia	Pseudomonadota	CF15_17	CF15_19	93.33333333333333	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 1 (RapZ)	Genus	Peptostreptococcus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 1 (RapZ)	Genus	Lawsonella	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 1 (RapZ)	Genus	Megasphaera_C	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 1 (RapZ)	Genus	Negativicoccus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0769230769230769	0.0	Exclusion/Other	13
+Pattern 1 (RapZ)	Genus	Lactococcus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Genus	Actinomyces	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Genus	Brevibacterium	Actinomycetota	CF15_17	CF15_19	92.30769230769232	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 1 (RapZ)	Genus	Lautropia	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Genus	Comamonas	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Genus	Abiotrophia	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0909090909090908	0.0	Exclusion/Other	11
+Pattern 1 (RapZ)	Genus	Ezakiella	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 1 (RapZ)	Genus	Nesterenkonia	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Pseudoxanthomonas_B	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Enterococcus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Jeotgalicoccus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Janibacter_A	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Unclassified_Sphingomonadaceae	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Novosphingopyxis	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	JAEXNA01	Vulcanimicrobiota	CF15_17	CF15_19	90.90909090909092	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 1 (RapZ)	Genus	Dermacoccus	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Dolosigranulum	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Azonexus	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Acidovorax	Pseudomonadota	CF15_17	CF15_19	90.90909090909092	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 1 (RapZ)	Genus	Allosphingosinicella	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Murdochiella	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Pelomonas	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Sphingopyxis	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Micavibrio_B	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Bacillus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	Neomicrococcus	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	Atopobium	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	Pseudoclavibacter	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	Diaphorobacter	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	Janibacter	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	Alloiococcus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	Gulosibacter	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	Varibaculum	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	VGSZ01	Myxococcota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	Yimella	Actinomycetota	CF15_17	CF15_19	88.88888888888889	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	Mammaliicoccus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 1 (RapZ)	Genus	Xanthomonas	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 1 (RapZ)	Genus	Winkia	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 1 (RapZ)	Genus	Dermabacter	Actinomycetota	CF15_17	CF15_19	77.77777777777779	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 1 (RapZ)	Genus	Rhodobacter_F	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.1428571428571428	0.0	Exclusion/Other	7
+Pattern 1 (RapZ)	Genus	Macrococcoides	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 1 (RapZ)	Genus	Unclassified_UBA2020	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 1 (RapZ)	Genus	Berryella	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 1 (RapZ)	Genus	Amaricoccus	Pseudomonadota	CF15_17	CF15_19	87.5	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 1 (RapZ)	Genus	Urinicoccus	Bacillota	CF15_17	CF15_19	87.5	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 1 (RapZ)	Genus	Olegusella	Actinomycetota	CF15_17	CF15_19	85.71428571428571	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 1 (RapZ)	Genus	Aestuariimicrobium	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Genus	JASBYZ01	Actinomycetota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Genus	Agathobacter	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Genus	Rhodoferax_C	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Genus	JACMQJ01	Cyanobacteriota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Genus	Thermomonas	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Genus	JAVVHE01	Pseudomonadota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Genus	Eremococcus	Bacillota	CF15_17	CF15_19	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Genus	Ruminococcoides	Bacillota	CF15_17	CF15_19	83.33333333333334	16.66666666666666	-1.0	1.0	Bacillota	6
+Pattern 1 (RapZ)	Genus	Brachybacterium	Actinomycetota	CF15_17	CF15_19	83.33333333333334	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Genus	Solilutibacter	Pseudomonadota	CF15_17	CF15_19	33.33333333333333	66.66666666666666	-1.0	1.0	Pseudomonadota	15
+Pattern 1 (RapZ)	Genus	Porphyromonas	Bacteroidota	CF15_17	CF15_19	2.32558139534883	0.0	-1.0	0.0	Exclusion/Other	43
+Pattern 1 (RapZ)	Genus	Psychrobacter	Pseudomonadota	CF15_17	CF15_19	5.26315789473684	94.73684210526316	-1.0	1.0	Pseudomonadota	19
+Pattern 1 (RapZ)	Genus	Acinetobacter	Pseudomonadota	CF15_17	CF15_19	1.14942528735632	96.55172413793103	-1.0	1.0	Pseudomonadota	87
+Pattern 1 (RapZ)	Genus	Pantoea	Pseudomonadota	CF15_17	CF15_19	1.8867924528301798	100.0	-1.0	1.0566037735849056	Pseudomonadota	53
+Pattern 1 (RapZ)	Genus	Pseudomonas_E	Pseudomonadota	CF15_17	CF15_19	2.0	98.0	-1.0	1.0	Pseudomonadota	50
+Pattern 1 (RapZ)	Family	Pasteurellaceae	Pseudomonadota	CF15_17	CF15_19	0.0	90.0	0.0	1.0555555555555556	Exclusion/Other	20
+Pattern 1 (RapZ)	Family	Alteromonadaceae	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Genus	Moraxella_A	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	52
+Pattern 1 (RapZ)	Genus	Klebsiella	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	50
+Pattern 1 (RapZ)	Genus	Serratia	Pseudomonadota	CF15_17	CF15_19	0.0	96.96969696969695	0.0	1.0	Exclusion/Other	33
+Pattern 1 (RapZ)	Genus	Pseudomonas_B	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	28
+Pattern 1 (RapZ)	Genus	Moraxella	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	25
+Pattern 1 (RapZ)	Genus	Leclercia	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	20
+Pattern 1 (RapZ)	Genus	CU05-9	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	17
+Pattern 1 (RapZ)	Genus	Enterobacter	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	14
+Pattern 1 (RapZ)	Genus	Stutzerimonas	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Genus	Pararheinheimera	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	12
+Pattern 1 (RapZ)	Genus	Pluralibacter	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	JASLIR01	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Haemophilus_D	Pseudomonadota	CF15_17	CF15_19	0.0	90.90909090909092	0.0	1.1	Exclusion/Other	11
+Pattern 1 (RapZ)	Genus	Yokenella	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 1 (RapZ)	Genus	Metapseudomonas	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	8
+Pattern 1 (RapZ)	Genus	Blastomonas	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	7
+Pattern 1 (RapZ)	Genus	Lysobacter_I	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Genus	Pseudomonas	Pseudomonadota	CF15_17	CF15_19	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 1 (RapZ)	Genus	Duffyella	Pseudomonadota	CF15_17	CF15_19	0.0	75.0	0.0	1.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Phylum	Pseudomonadota	Pseudomonadota	CF9_9	CF9_12	63.37509211495947	0.0	-1.009302325581395	0.0	Exclusion/Other	1357
+Pattern 2 (DUF1949)	Phylum	Actinomycetota	Actinomycetota	CF9_9	CF9_12	81.63030998851895	3.78874856486796	-1.0084388185654007	1.0	Actinomycetota	871
+Pattern 2 (DUF1949)	Phylum	Bacillota	Bacillota	CF9_9	CF9_12	74.44987775061125	24.08312958435207	-1.0032840722495897	1.0	Bacillota	818
+Pattern 2 (DUF1949)	Phylum	Bacteroidota	Bacteroidota	CF9_9	CF9_12	92.5531914893617	2.5531914893617	-1.006896551724138	1.0	Bacteroidota	470
+Pattern 2 (DUF1949)	Phylum	Deinococcota	Deinococcota	CF9_9	CF9_12	96.42857142857144	0.0	-1.0	0.0	Exclusion/Other	28
+Pattern 2 (DUF1949)	Phylum	Campylobacterota	Campylobacterota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 2 (DUF1949)	Phylum	Bacteroidota_A	Bacteroidota_A	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Phylum	Spirochaetota	Spirochaetota	CF9_9	CF9_12	87.5	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Phylum	Fusobacteriota	Fusobacteriota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Phylum	Patescibacteriota	Patescibacteriota	CF9_9	CF9_12	2.98507462686567	0.0	-1.0	0.0	Exclusion/Other	67
+Pattern 2 (DUF1949)	Phylum	Myxococcota	Myxococcota	CF9_9	CF9_12	5.88235294117647	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 2 (DUF1949)	Phylum	Cyanobacteriota	Cyanobacteriota	CF9_9	CF9_12	7.14285714285714	78.57142857142857	-1.0	1.0	Cyanobacteriota	14
+Pattern 2 (DUF1949)	Class	Gammaproteobacteria	Pseudomonadota	CF9_9	CF9_12	88.20459290187893	0.0	-1.0094674556213017	0.0	Exclusion/Other	958
+Pattern 2 (DUF1949)	Class	Actinomycetes	Actinomycetota	CF9_9	CF9_12	82.22778473091364	3.8798498122653298	-1.0091324200913243	1.0	Actinomycetota	799
+Pattern 2 (DUF1949)	Class	Bacteroidia	Bacteroidota	CF9_9	CF9_12	92.5531914893617	2.5531914893617	-1.006896551724138	1.0	Bacteroidota	470
+Pattern 2 (DUF1949)	Class	Bacilli	Bacillota	CF9_9	CF9_12	63.347457627118644	36.016949152542374	-1.0	1.0	Bacillota	472
+Pattern 2 (DUF1949)	Class	Clostridia	Bacillota	CF9_9	CF9_12	90.61371841155236	6.498194945848371	-1.00398406374502	1.0	Bacillota	277
+Pattern 2 (DUF1949)	Class	Negativicutes	Bacillota	CF9_9	CF9_12	90.76923076923076	7.69230769230769	-1.0169491525423728	1.0	Bacillota	65
+Pattern 2 (DUF1949)	Class	Coriobacteriia	Actinomycetota	CF9_9	CF9_12	94.73684210526316	3.50877192982456	-1.0	1.0	Actinomycetota	57
+Pattern 2 (DUF1949)	Class	Deinococci	Deinococcota	CF9_9	CF9_12	96.42857142857144	0.0	-1.0	0.0	Exclusion/Other	28
+Pattern 2 (DUF1949)	Class	Campylobacteria	Campylobacterota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 2 (DUF1949)	Class	Alphaproteobacteria	Pseudomonadota	CF9_9	CF9_12	3.7593984962405997	0.0	-1.0	0.0	Exclusion/Other	399
+Pattern 2 (DUF1949)	Class	Rhodothermia	Bacteroidota_A	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Class	Spirochaetia	Spirochaetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Class	Fusobacteriia	Fusobacteriota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Class	Sericytochromatia	Cyanobacteriota	CF9_9	CF9_12	8.33333333333333	91.66666666666666	-1.0	1.0	Cyanobacteriota	12
+Pattern 2 (DUF1949)	Order	Actinomycetales	Actinomycetota	CF9_9	CF9_12	76.92307692307693	7.69230769230769	-1.0161290322580645	1.0	Actinomycetota	403
+Pattern 2 (DUF1949)	Order	Pseudomonadales	Pseudomonadota	CF9_9	CF9_12	93.14641744548288	0.0	-1.0033444816053512	0.0	Exclusion/Other	321
+Pattern 2 (DUF1949)	Order	Mycobacteriales	Actinomycetota	CF9_9	CF9_12	87.8048780487805	0.0	-1.0034722222222223	0.0	Exclusion/Other	328
+Pattern 2 (DUF1949)	Order	Enterobacterales	Pseudomonadota	CF9_9	CF9_12	97.81818181818181	0.0	-1.0111524163568772	0.0	Exclusion/Other	275
+Pattern 2 (DUF1949)	Order	Bacteroidales	Bacteroidota	CF9_9	CF9_12	95.19230769230768	1.4423076923076898	-1.005050505050505	1.0	Bacteroidota	208
+Pattern 2 (DUF1949)	Order	Staphylococcales	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	177
+Pattern 2 (DUF1949)	Order	Tissierellales	Bacillota	CF9_9	CF9_12	97.72727272727272	1.13636363636363	-1.0	1.0	Bacillota	176
+Pattern 2 (DUF1949)	Order	Burkholderiales	Pseudomonadota	CF9_9	CF9_12	73.07692307692307	0.0	-1.023391812865497	0.0	Exclusion/Other	234
+Pattern 2 (DUF1949)	Order	Flavobacteriales	Bacteroidota	CF9_9	CF9_12	95.54140127388536	1.9108280254777	-1.0133333333333334	1.0	Bacteroidota	157
+Pattern 2 (DUF1949)	Order	Lactobacillales	Bacillota	CF9_9	CF9_12	62.63157894736842	37.368421052631575	-1.0	1.0	Bacillota	190
+Pattern 2 (DUF1949)	Order	Xanthomonadales	Pseudomonadota	CF9_9	CF9_12	89.83050847457628	0.0	-1.0	0.0	Exclusion/Other	118
+Pattern 2 (DUF1949)	Order	Propionibacteriales	Actinomycetota	CF9_9	CF9_12	86.76470588235294	0.0	-1.0	0.0	Exclusion/Other	68
+Pattern 2 (DUF1949)	Order	Coriobacteriales	Actinomycetota	CF9_9	CF9_12	94.73684210526316	3.50877192982456	-1.0	1.0	Actinomycetota	57
+Pattern 2 (DUF1949)	Order	Veillonellales	Bacillota	CF9_9	CF9_12	91.2280701754386	7.01754385964912	-1.0192307692307692	1.0	Bacillota	57
+Pattern 2 (DUF1949)	Order	Chitinophagales	Bacteroidota	CF9_9	CF9_12	88.37209302325581	6.97674418604651	-1.0	1.0	Bacteroidota	43
+Pattern 2 (DUF1949)	Order	Lachnospirales	Bacillota	CF9_9	CF9_12	89.74358974358975	2.56410256410256	-1.0	1.0	Bacillota	39
+Pattern 2 (DUF1949)	Order	Deinococcales	Deinococcota	CF9_9	CF9_12	96.42857142857144	0.0	-1.0	0.0	Exclusion/Other	28
+Pattern 2 (DUF1949)	Order	Sphingobacteriales	Bacteroidota	CF9_9	CF9_12	96.29629629629628	0.0	-1.0	0.0	Exclusion/Other	27
+Pattern 2 (DUF1949)	Order	Campylobacterales	Campylobacterota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 2 (DUF1949)	Order	Oscillospirales	Bacillota	CF9_9	CF9_12	94.44444444444444	0.0	-1.0	0.0	Exclusion/Other	18
+Pattern 2 (DUF1949)	Order	Saccharofermentanales	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0714285714285714	0.0	Exclusion/Other	14
+Pattern 2 (DUF1949)	Order	Rhizobiales	Pseudomonadota	CF9_9	CF9_12	29.268292682926827	0.0	-1.0	0.0	Exclusion/Other	41
+Pattern 2 (DUF1949)	Order	Cytophagales	Bacteroidota	CF9_9	CF9_12	52.63157894736842	0.0	-1.0	0.0	Exclusion/Other	19
+Pattern 2 (DUF1949)	Order	Peptostreptococcales	Bacillota	CF9_9	CF9_12	36.0	56.00000000000001	-1.0	1.0	Bacillota	25
+Pattern 2 (DUF1949)	Order	Rhodothermales	Bacteroidota_A	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Order	Treponematales	Spirochaetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Order	B-17B0	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Order	Fusobacteriales	Fusobacteriota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Order	Acetobacterales	Pseudomonadota	CF9_9	CF9_12	20.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Order	UBA7694	Cyanobacteriota	CF9_9	CF9_12	8.33333333333333	91.66666666666666	-1.0	1.0	Cyanobacteriota	12
+Pattern 2 (DUF1949)	Order	Rickettsiales	Pseudomonadota	CF9_9	CF9_12	5.0	0.0	-1.0	0.0	Exclusion/Other	20
+Pattern 2 (DUF1949)	Family	Mycobacteriaceae	Actinomycetota	CF9_9	CF9_12	88.03680981595092	0.0	-1.0034843205574913	0.0	Exclusion/Other	326
+Pattern 2 (DUF1949)	Family	Enterobacteriaceae	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0084388185654007	0.0	Exclusion/Other	237
+Pattern 2 (DUF1949)	Family	Moraxellaceae	Pseudomonadota	CF9_9	CF9_12	90.8653846153846	0.0	-1.0	0.0	Exclusion/Other	208
+Pattern 2 (DUF1949)	Family	Peptoniphilaceae	Bacillota	CF9_9	CF9_12	97.72727272727272	1.13636363636363	-1.0	1.0	Bacillota	176
+Pattern 2 (DUF1949)	Family	Staphylococcaceae	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	162
+Pattern 2 (DUF1949)	Family	Micrococcaceae	Actinomycetota	CF9_9	CF9_12	78.82352941176471	17.64705882352941	-1.0149253731343284	1.0	Actinomycetota	170
+Pattern 2 (DUF1949)	Family	Weeksellaceae	Bacteroidota	CF9_9	CF9_12	95.52238805970148	2.23880597014925	-1.0	1.0	Bacteroidota	134
+Pattern 2 (DUF1949)	Family	Bacteroidaceae	Bacteroidota	CF9_9	CF9_12	97.58064516129032	0.0	-1.008264462809917	0.0	Exclusion/Other	124
+Pattern 2 (DUF1949)	Family	Pseudomonadaceae	Pseudomonadota	CF9_9	CF9_12	97.14285714285714	0.0	-1.0098039215686274	0.0	Exclusion/Other	105
+Pattern 2 (DUF1949)	Family	Xanthomonadaceae	Pseudomonadota	CF9_9	CF9_12	88.9908256880734	0.0	-1.0	0.0	Exclusion/Other	109
+Pattern 2 (DUF1949)	Family	Burkholderiaceae	Pseudomonadota	CF9_9	CF9_12	64.38356164383562	0.0	-1.0	0.0	Exclusion/Other	146
+Pattern 2 (DUF1949)	Family	Neisseriaceae	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0555555555555556	0.0	Exclusion/Other	72
+Pattern 2 (DUF1949)	Family	Porphyromonadaceae	Bacteroidota	CF9_9	CF9_12	89.70588235294117	4.41176470588235	-1.0	1.0	Bacteroidota	68
+Pattern 2 (DUF1949)	Family	Propionibacteriaceae	Actinomycetota	CF9_9	CF9_12	98.33333333333331	0.0	-1.0	0.0	Exclusion/Other	60
+Pattern 2 (DUF1949)	Family	Actinomycetaceae	Actinomycetota	CF9_9	CF9_12	94.91525423728814	0.0	-1.0	0.0	Exclusion/Other	59
+Pattern 2 (DUF1949)	Family	Streptococcaceae	Bacillota	CF9_9	CF9_12	94.0	2.0	-1.0	1.0	Bacillota	50
+Pattern 2 (DUF1949)	Family	Lactobacillaceae	Bacillota	CF9_9	CF9_12	95.55555555555556	0.0	-1.0	0.0	Exclusion/Other	45
+Pattern 2 (DUF1949)	Family	Atopobiaceae	Actinomycetota	CF9_9	CF9_12	97.43589743589745	0.0	-1.0	0.0	Exclusion/Other	39
+Pattern 2 (DUF1949)	Family	Bifidobacteriaceae	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0277777777777777	0.0	Exclusion/Other	36
+Pattern 2 (DUF1949)	Family	Chitinophagaceae	Bacteroidota	CF9_9	CF9_12	92.10526315789473	7.89473684210526	-1.0	1.0	Bacteroidota	38
+Pattern 2 (DUF1949)	Family	Lachnospiraceae	Bacillota	CF9_9	CF9_12	91.8918918918919	0.0	-1.0	0.0	Exclusion/Other	37
+Pattern 2 (DUF1949)	Family	Dermatophilaceae	Actinomycetota	CF9_9	CF9_12	67.3469387755102	0.0	-1.0606060606060606	0.0	Exclusion/Other	49
+Pattern 2 (DUF1949)	Family	Sphingobacteriaceae	Bacteroidota	CF9_9	CF9_12	96.29629629629628	0.0	-1.0	0.0	Exclusion/Other	27
+Pattern 2 (DUF1949)	Family	Aerococcaceae	Bacillota	CF9_9	CF9_12	59.523809523809526	50.0	-1.0	1.0	Bacillota	42
+Pattern 2 (DUF1949)	Family	Campylobacteraceae	Campylobacterota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 2 (DUF1949)	Family	Deinococcaceae	Deinococcota	CF9_9	CF9_12	96.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 2 (DUF1949)	Family	Microbacteriaceae	Actinomycetota	CF9_9	CF9_12	40.35087719298245	0.0	-1.0	0.0	Exclusion/Other	57
+Pattern 2 (DUF1949)	Family	Pasteurellaceae	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.05	0.0	Exclusion/Other	20
+Pattern 2 (DUF1949)	Family	Flavobacteriaceae	Bacteroidota	CF9_9	CF9_12	95.0	0.0	-1.0526315789473684	0.0	Exclusion/Other	20
+Pattern 2 (DUF1949)	Family	Dialisteraceae	Bacillota	CF9_9	CF9_12	94.44444444444444	0.0	-1.0	0.0	Exclusion/Other	18
+Pattern 2 (DUF1949)	Family	Megasphaeraceae	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	16
+Pattern 2 (DUF1949)	Family	Dermabacteraceae	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 2 (DUF1949)	Family	Negativicoccaceae	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0714285714285714	0.0	Exclusion/Other	14
+Pattern 2 (DUF1949)	Family	Acutalibacteraceae	Bacillota	CF9_9	CF9_12	92.30769230769232	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 2 (DUF1949)	Family	Rhizobiaceae	Pseudomonadota	CF9_9	CF9_12	66.66666666666666	0.0	-1.0	0.0	Exclusion/Other	18
+Pattern 2 (DUF1949)	Family	Brevibacteriaceae	Actinomycetota	CF9_9	CF9_12	92.30769230769232	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 2 (DUF1949)	Family	Salinicoccaceae	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 2 (DUF1949)	Family	Fastidiosipilaceae	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Family	B-17BO	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Family	Eggerthellaceae	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Family	Muribaculaceae	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Family	Treponemataceae	Spirochaetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Family	Hymenobacteraceae	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Family	JAEZZM01	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Family	DTU023	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.1666666666666667	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Family	BA12	Bacteroidota_A	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Family	Alteromonadaceae	Pseudomonadota	CF9_9	CF9_12	50.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 2 (DUF1949)	Family	Filifactoraceae	Bacillota	CF9_9	CF9_12	83.33333333333334	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Family	Veillonellaceae	Bacillota	CF9_9	CF9_12	55.55555555555556	44.44444444444444	-1.0	1.0	Bacillota	9
+Pattern 2 (DUF1949)	Family	Enterococcaceae	Bacillota	CF9_9	CF9_12	12.12121212121212	87.87878787878788	-1.0	1.0	Bacillota	33
+Pattern 2 (DUF1949)	Family	Rhodocyclaceae	Pseudomonadota	CF9_9	CF9_12	26.66666666666666	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 2 (DUF1949)	Family	Anaerovoracaceae	Bacillota	CF9_9	CF9_12	66.66666666666666	16.66666666666666	-1.0	1.0	Bacillota	6
+Pattern 2 (DUF1949)	Family	Acetobacteraceae	Pseudomonadota	CF9_9	CF9_12	20.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Family	JACMQJ01	Cyanobacteriota	CF9_9	CF9_12	16.66666666666666	83.33333333333334	-1.0	1.0	Cyanobacteriota	6
+Pattern 2 (DUF1949)	Family	UBA3002	Pseudomonadota	CF9_9	CF9_12	10.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Corynebacterium	Actinomycetota	CF9_9	CF9_12	99.6268656716418	0.0	-1.00374531835206	0.0	Exclusion/Other	268
+Pattern 2 (DUF1949)	Genus	Staphylococcus	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	145
+Pattern 2 (DUF1949)	Genus	Prevotella	Bacteroidota	CF9_9	CF9_12	97.97979797979798	0.0	-1.0	0.0	Exclusion/Other	99
+Pattern 2 (DUF1949)	Genus	Acinetobacter	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	87
+Pattern 2 (DUF1949)	Genus	Rothia	Actinomycetota	CF9_9	CF9_12	75.34246575342466	19.17808219178082	-1.018181818181818	1.0	Actinomycetota	73
+Pattern 2 (DUF1949)	Genus	Pantoea	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0377358490566038	0.0	Exclusion/Other	53
+Pattern 2 (DUF1949)	Genus	Moraxella_A	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	52
+Pattern 2 (DUF1949)	Genus	Klebsiella	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	50
+Pattern 2 (DUF1949)	Genus	Pseudomonas_E	Pseudomonadota	CF9_9	CF9_12	96.0	0.0	-1.0208333333333333	0.0	Exclusion/Other	50
+Pattern 2 (DUF1949)	Genus	Cutibacterium	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	40
+Pattern 2 (DUF1949)	Genus	Neisseria	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.1025641025641026	0.0	Exclusion/Other	39
+Pattern 2 (DUF1949)	Genus	Anaerococcus	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	38
+Pattern 2 (DUF1949)	Genus	Porphyromonas	Bacteroidota	CF9_9	CF9_12	86.04651162790698	6.97674418604651	-1.0	1.0	Bacteroidota	43
+Pattern 2 (DUF1949)	Genus	Stenotrophomonas	Pseudomonadota	CF9_9	CF9_12	97.36842105263158	0.0	-1.0	0.0	Exclusion/Other	38
+Pattern 2 (DUF1949)	Genus	Streptococcus	Bacillota	CF9_9	CF9_12	92.10526315789473	2.63157894736842	-1.0	1.0	Bacillota	38
+Pattern 2 (DUF1949)	Genus	Bifidobacterium	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0294117647058822	0.0	Exclusion/Other	34
+Pattern 2 (DUF1949)	Genus	Serratia	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	33
+Pattern 2 (DUF1949)	Genus	Lactobacillus	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	30
+Pattern 2 (DUF1949)	Genus	QFNR01	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	30
+Pattern 2 (DUF1949)	Genus	Kocuria	Actinomycetota	CF9_9	CF9_12	63.04347826086957	34.782608695652165	-1.0344827586206895	1.0	Actinomycetota	46
+Pattern 2 (DUF1949)	Genus	Aedoeadaptatus	Bacillota	CF9_9	CF9_12	96.66666666666669	0.0	-1.0	0.0	Exclusion/Other	30
+Pattern 2 (DUF1949)	Genus	Pseudomonas_B	Pseudomonadota	CF9_9	CF9_12	96.42857142857144	0.0	-1.0	0.0	Exclusion/Other	28
+Pattern 2 (DUF1949)	Genus	Peptoniphilus_A	Bacillota	CF9_9	CF9_12	92.59259259259261	7.4074074074074	-1.0	1.0	Bacillota	27
+Pattern 2 (DUF1949)	Genus	Moraxella	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 2 (DUF1949)	Genus	Deinococcus	Deinococcota	CF9_9	CF9_12	96.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 2 (DUF1949)	Genus	Finegoldia	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	24
+Pattern 2 (DUF1949)	Genus	Porphyromonas_A	Bacteroidota	CF9_9	CF9_12	96.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 2 (DUF1949)	Genus	Micrococcus	Actinomycetota	CF9_9	CF9_12	96.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 2 (DUF1949)	Genus	Chryseobacterium	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	23
+Pattern 2 (DUF1949)	Genus	Epilithonimonas	Bacteroidota	CF9_9	CF9_12	95.65217391304348	0.0	-1.0	0.0	Exclusion/Other	23
+Pattern 2 (DUF1949)	Genus	Fannyhessea	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	21
+Pattern 2 (DUF1949)	Genus	Campylobacter_B	Campylobacterota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	20
+Pattern 2 (DUF1949)	Genus	Fenollaria	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	20
+Pattern 2 (DUF1949)	Genus	Kaistella	Bacteroidota	CF9_9	CF9_12	90.90909090909092	9.09090909090909	-1.0	1.0	Bacteroidota	22
+Pattern 2 (DUF1949)	Genus	Leclercia	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	20
+Pattern 2 (DUF1949)	Genus	Alloprevotella	Bacteroidota	CF9_9	CF9_12	95.0	0.0	-1.0	0.0	Exclusion/Other	20
+Pattern 2 (DUF1949)	Genus	Aquincola	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	19
+Pattern 2 (DUF1949)	Genus	Psychrobacter	Pseudomonadota	CF9_9	CF9_12	94.73684210526316	0.0	-1.0	0.0	Exclusion/Other	19
+Pattern 2 (DUF1949)	Genus	Empedobacter	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 2 (DUF1949)	Genus	Dialister	Bacillota	CF9_9	CF9_12	94.44444444444444	0.0	-1.0	0.0	Exclusion/Other	18
+Pattern 2 (DUF1949)	Genus	Mobiluncus	Actinomycetota	CF9_9	CF9_12	94.11764705882352	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 2 (DUF1949)	Genus	CU05-9	Pseudomonadota	CF9_9	CF9_12	94.11764705882352	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 2 (DUF1949)	Genus	Telluria	Pseudomonadota	CF9_9	CF9_12	88.88888888888889	0.0	-1.0	0.0	Exclusion/Other	18
+Pattern 2 (DUF1949)	Genus	Enterobacter	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	14
+Pattern 2 (DUF1949)	Genus	Pedobacter	Bacteroidota	CF9_9	CF9_12	92.85714285714286	0.0	-1.0	0.0	Exclusion/Other	14
+Pattern 2 (DUF1949)	Genus	Lawsonella	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 2 (DUF1949)	Genus	Negativicoccus	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0769230769230769	0.0	Exclusion/Other	13
+Pattern 2 (DUF1949)	Genus	Sphingobacterium	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 2 (DUF1949)	Genus	Megasphaera_C	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 2 (DUF1949)	Genus	Lactococcus	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 2 (DUF1949)	Genus	Stutzerimonas	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 2 (DUF1949)	Genus	Brevibacterium	Actinomycetota	CF9_9	CF9_12	92.30769230769232	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 2 (DUF1949)	Genus	Comamonas	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 2 (DUF1949)	Genus	Actinomyces	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 2 (DUF1949)	Genus	Flavobacterium	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 2 (DUF1949)	Genus	Abiotrophia	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 2 (DUF1949)	Genus	Nemorincola	Bacteroidota	CF9_9	CF9_12	91.66666666666666	8.33333333333333	-1.0	1.0	Bacteroidota	12
+Pattern 2 (DUF1949)	Genus	Acidovorax	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 2 (DUF1949)	Genus	Haemophilus_D	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0909090909090908	0.0	Exclusion/Other	11
+Pattern 2 (DUF1949)	Genus	Ezakiella	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 2 (DUF1949)	Genus	Solilutibacter	Pseudomonadota	CF9_9	CF9_12	73.33333333333333	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 2 (DUF1949)	Genus	Lautropia	Pseudomonadota	CF9_9	CF9_12	91.66666666666666	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 2 (DUF1949)	Genus	Yokenella	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Cruoricaptor	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Pseudoxanthomonas_B	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Dermacoccus	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.1	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Ferruginibacter	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Murdochiella	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Jeotgalicoccus	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Nesterenkonia	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Pluralibacter	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Dermabacter	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Genus	Yimella	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Genus	Gulosibacter	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Genus	JAGLBA01	Bacteroidota	CF9_9	CF9_12	90.0	10.0	-1.0	1.0	Bacteroidota	10
+Pattern 2 (DUF1949)	Genus	Atopobium	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Genus	Janibacter	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.1111111111111112	0.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Genus	Neomicrococcus	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Genus	Diaphorobacter	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Genus	Metapseudomonas	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Genus	Pseudoclavibacter	Actinomycetota	CF9_9	CF9_12	88.88888888888889	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Genus	Moryella	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Genus	Xanthomonas	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Genus	Duffyella	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Genus	Varibaculum	Actinomycetota	CF9_9	CF9_12	88.88888888888889	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Genus	Mammaliicoccus	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Genus	Berryella	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Genus	Urinicoccus	Bacillota	CF9_9	CF9_12	87.5	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Genus	Bergeyella_A	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Genus	UBA4416	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Genus	Leuconostoc	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Genus	Macrococcoides	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Genus	Capnocytophaga	Bacteroidota	CF9_9	CF9_12	87.5	0.0	-1.1428571428571428	0.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Genus	Sodaliphilus	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Genus	Winkia	Actinomycetota	CF9_9	CF9_12	87.5	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 2 (DUF1949)	Genus	JANNMJ01	Bacteroidota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	Brachybacterium	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	BA12	Bacteroidota_A	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	Rhodoferax_C	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	Aestuariimicrobium	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	Pararheinheimera	Pseudomonadota	CF9_9	CF9_12	50.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 2 (DUF1949)	Genus	Agathobacter	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	Pseudomonas	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	Olegusella	Actinomycetota	CF9_9	CF9_12	85.71428571428571	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 2 (DUF1949)	Genus	JASBYZ01	Actinomycetota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	Microbacterium	Actinomycetota	CF9_9	CF9_12	16.21621621621621	0.0	-1.0	0.0	Exclusion/Other	37
+Pattern 2 (DUF1949)	Genus	Eremococcus	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	Amygdalobacter	Bacillota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	Lysobacter_I	Pseudomonadota	CF9_9	CF9_12	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	Flavihumibacter	Bacteroidota	CF9_9	CF9_12	83.33333333333334	16.66666666666666	-1.0	1.0	Bacteroidota	6
+Pattern 2 (DUF1949)	Genus	Ruminococcoides	Bacillota	CF9_9	CF9_12	83.33333333333334	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	JACMQJ01	Cyanobacteriota	CF9_9	CF9_12	16.66666666666666	83.33333333333334	-1.0	1.0	Cyanobacteriota	6
+Pattern 2 (DUF1949)	Genus	Enterococcus_B	Bacillota	CF9_9	CF9_12	5.88235294117647	94.11764705882352	-1.0	1.0	Bacillota	17
+Pattern 2 (DUF1949)	Order	Bacillales	Bacillota	CF9_9	CF9_12	0.0	98.33333333333331	0.0	1.0	Exclusion/Other	60
+Pattern 2 (DUF1949)	Order	Bacillales_A	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	28
+Pattern 2 (DUF1949)	Family	Bacillaceae_G	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	49
+Pattern 2 (DUF1949)	Family	Planococcaceae	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	28
+Pattern 2 (DUF1949)	Family	Carnobacteriaceae	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	19
+Pattern 2 (DUF1949)	Family	Peptostreptococcaceae	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	13
+Pattern 2 (DUF1949)	Family	Bacillaceae	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Family	UBA7694	Cyanobacteriota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 2 (DUF1949)	Genus	Bacillus_A	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	49
+Pattern 2 (DUF1949)	Genus	Lysinibacillus	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	25
+Pattern 2 (DUF1949)	Genus	Aerococcus	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	16
+Pattern 2 (DUF1949)	Genus	Peptostreptococcus	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	13
+Pattern 2 (DUF1949)	Genus	Enterococcus	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Dolosigranulum	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 2 (DUF1949)	Genus	Bacillus	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Genus	Alloiococcus	Bacillota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	9
+Pattern 2 (DUF1949)	Genus	CAJYHH01	Cyanobacteriota	CF9_9	CF9_12	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 3 (Serine)	Phylum	Pseudomonadota	Pseudomonadota	CF17_20	CF17_23	69.34414148857775	0.07369196757553	-1.3740701381509033	1.0	Pseudomonadota	1357
+Pattern 3 (Serine)	Phylum	Actinomycetota	Actinomycetota	CF17_20	CF17_23	76.80826636050516	6.31458094144661	-1.1659192825112108	1.0	Actinomycetota	871
+Pattern 3 (Serine)	Phylum	Bacteroidota	Bacteroidota	CF17_20	CF17_23	88.51063829787233	1.70212765957446	-1.0144230769230769	1.0	Bacteroidota	470
+Pattern 3 (Serine)	Phylum	Bacillota	Bacillota	CF17_20	CF17_23	2.93398533007334	84.22982885085575	-1.0	1.11611030478955	Bacillota	818
+Pattern 3 (Serine)	Phylum	Fusobacteriota	Fusobacteriota	CF17_20	CF17_23	100.0	0.0	-1.1666666666666667	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Phylum	Planctomycetota	Planctomycetota	CF17_20	CF17_23	50.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Phylum	Myxococcota	Myxococcota	CF17_20	CF17_23	23.52941176470588	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 3 (Serine)	Phylum	Bacteroidota_A	Bacteroidota_A	CF17_20	CF17_23	37.5	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 3 (Serine)	Phylum	Verrucomicrobiota	Verrucomicrobiota	CF17_20	CF17_23	33.33333333333333	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 3 (Serine)	Phylum	Vulcanimicrobiota	Vulcanimicrobiota	CF17_20	CF17_23	6.66666666666666	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 3 (Serine)	Phylum	Bdellovibrionota	Bdellovibrionota	CF17_20	CF17_23	2.08333333333333	0.0	-1.0	0.0	Exclusion/Other	48
+Pattern 3 (Serine)	Class	Gammaproteobacteria	Pseudomonadota	CF17_20	CF17_23	79.64509394572025	0.10438413361169	-1.4495412844036697	1.0	Pseudomonadota	958
+Pattern 3 (Serine)	Class	Actinomycetes	Actinomycetota	CF17_20	CF17_23	83.729662077597	0.12515644555694	-1.1659192825112108	1.0	Actinomycetota	799
+Pattern 3 (Serine)	Class	Bacteroidia	Bacteroidota	CF17_20	CF17_23	88.51063829787233	1.70212765957446	-1.0144230769230769	1.0	Bacteroidota	470
+Pattern 3 (Serine)	Class	Alphaproteobacteria	Pseudomonadota	CF17_20	CF17_23	44.61152882205513	0.0	-1.050561797752809	0.0	Exclusion/Other	399
+Pattern 3 (Serine)	Class	Bacilli	Bacillota	CF17_20	CF17_23	2.54237288135593	83.6864406779661	-1.0	1.1746835443037975	Bacillota	472
+Pattern 3 (Serine)	Class	Clostridia	Bacillota	CF17_20	CF17_23	4.33212996389891	84.47653429602889	-1.0	1.0427350427350428	Bacillota	277
+Pattern 3 (Serine)	Class	Fusobacteriia	Fusobacteriota	CF17_20	CF17_23	100.0	0.0	-1.1666666666666667	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Class	Planctomycetia	Planctomycetota	CF17_20	CF17_23	55.55555555555556	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 3 (Serine)	Class	Polyangia	Myxococcota	CF17_20	CF17_23	50.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Class	Verrucomicrobiia	Verrucomicrobiota	CF17_20	CF17_23	33.33333333333333	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 3 (Serine)	Class	Rhodothermia	Bacteroidota_A	CF17_20	CF17_23	42.85714285714285	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 3 (Serine)	Class	Xenobia	Vulcanimicrobiota	CF17_20	CF17_23	6.66666666666666	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 3 (Serine)	Class	Bdellovibrionia	Bdellovibrionota	CF17_20	CF17_23	3.125	0.0	-1.0	0.0	Exclusion/Other	32
+Pattern 3 (Serine)	Order	Actinomycetales	Actinomycetota	CF17_20	CF17_23	88.33746898263027	0.0	-1.0646067415730338	0.0	Exclusion/Other	403
+Pattern 3 (Serine)	Order	Enterobacterales	Pseudomonadota	CF17_20	CF17_23	98.54545454545456	0.0	-1.9040590405904056	0.0	Exclusion/Other	275
+Pattern 3 (Serine)	Order	Mycobacteriales	Actinomycetota	CF17_20	CF17_23	78.04878048780488	0.0	-1.34375	0.0	Exclusion/Other	328
+Pattern 3 (Serine)	Order	Pseudomonadales	Pseudomonadota	CF17_20	CF17_23	70.09345794392523	0.31152647975077	-1.4	1.0	Pseudomonadota	321
+Pattern 3 (Serine)	Order	Bacteroidales	Bacteroidota	CF17_20	CF17_23	96.15384615384616	0.0	-1.015	0.0	Exclusion/Other	208
+Pattern 3 (Serine)	Order	Flavobacteriales	Bacteroidota	CF17_20	CF17_23	89.171974522293	0.0	-1.0214285714285714	0.0	Exclusion/Other	157
+Pattern 3 (Serine)	Order	Burkholderiales	Pseudomonadota	CF17_20	CF17_23	59.82905982905983	0.0	-1.042857142857143	0.0	Exclusion/Other	234
+Pattern 3 (Serine)	Order	Xanthomonadales	Pseudomonadota	CF17_20	CF17_23	99.15254237288136	0.0	-1.017094017094017	0.0	Exclusion/Other	118
+Pattern 3 (Serine)	Order	Rhodobacterales	Pseudomonadota	CF17_20	CF17_23	96.3855421686747	0.0	-1.0375	0.0	Exclusion/Other	83
+Pattern 3 (Serine)	Order	Sphingomonadales	Pseudomonadota	CF17_20	CF17_23	43.93939393939394	0.0	-1.0689655172413792	0.0	Exclusion/Other	132
+Pattern 3 (Serine)	Order	Propionibacteriales	Actinomycetota	CF17_20	CF17_23	83.82352941176471	1.47058823529411	-1.0	1.0	Actinomycetota	68
+Pattern 3 (Serine)	Order	Chitinophagales	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	43
+Pattern 3 (Serine)	Order	Sphingobacteriales	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	27
+Pattern 3 (Serine)	Order	Rhizobiales	Pseudomonadota	CF17_20	CF17_23	60.97560975609756	0.0	-1.08	0.0	Exclusion/Other	41
+Pattern 3 (Serine)	Order	Peptostreptococcales	Bacillota	CF17_20	CF17_23	48.0	32.0	-1.0	1.0	Bacillota	25
+Pattern 3 (Serine)	Order	Legionellales	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 3 (Serine)	Order	Fusobacteriales	Fusobacteriota	CF17_20	CF17_23	100.0	0.0	-1.1666666666666667	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Order	Cytophagales	Bacteroidota	CF17_20	CF17_23	31.57894736842105	42.105263157894726	-1.0	1.0	Bacteroidota	19
+Pattern 3 (Serine)	Order	Lactobacillales	Bacillota	CF17_20	CF17_23	2.63157894736842	65.26315789473685	-1.0	1.0887096774193548	Bacillota	190
+Pattern 3 (Serine)	Order	Acetobacterales	Pseudomonadota	CF17_20	CF17_23	50.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Order	Caulobacterales	Pseudomonadota	CF17_20	CF17_23	6.451612903225799	0.0	-1.0	0.0	Exclusion/Other	62
+Pattern 3 (Serine)	Order	Planctomycetales	Planctomycetota	CF17_20	CF17_23	57.14285714285714	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 3 (Serine)	Order	Rhodothermales	Bacteroidota_A	CF17_20	CF17_23	42.85714285714285	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 3 (Serine)	Order	Polyangiales	Myxococcota	CF17_20	CF17_23	50.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Order	Xenobiales	Vulcanimicrobiota	CF17_20	CF17_23	6.66666666666666	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 3 (Serine)	Order	Bdellovibrionales	Bdellovibrionota	CF17_20	CF17_23	3.125	0.0	-1.0	0.0	Exclusion/Other	32
+Pattern 3 (Serine)	Family	Mycobacteriaceae	Actinomycetota	CF17_20	CF17_23	78.22085889570552	0.0	-1.3450980392156864	0.0	Exclusion/Other	326
+Pattern 3 (Serine)	Family	Enterobacteriaceae	Pseudomonadota	CF17_20	CF17_23	99.57805907172997	0.0	-2.016949152542373	0.0	Exclusion/Other	237
+Pattern 3 (Serine)	Family	Micrococcaceae	Actinomycetota	CF17_20	CF17_23	98.23529411764704	0.0	-1.1137724550898205	0.0	Exclusion/Other	170
+Pattern 3 (Serine)	Family	Weeksellaceae	Bacteroidota	CF17_20	CF17_23	90.29850746268656	0.0	-1.0165289256198349	0.0	Exclusion/Other	134
+Pattern 3 (Serine)	Family	Moraxellaceae	Pseudomonadota	CF17_20	CF17_23	58.17307692307693	0.48076923076923	-1.008264462809917	1.0	Pseudomonadota	208
+Pattern 3 (Serine)	Family	Bacteroidaceae	Bacteroidota	CF17_20	CF17_23	96.7741935483871	0.0	-1.0	0.0	Exclusion/Other	124
+Pattern 3 (Serine)	Family	Xanthomonadaceae	Pseudomonadota	CF17_20	CF17_23	99.08256880733946	0.0	-1.0185185185185186	0.0	Exclusion/Other	109
+Pattern 3 (Serine)	Family	Pseudomonadaceae	Pseudomonadota	CF17_20	CF17_23	98.09523809523807	0.0	-1.864077669902913	0.0	Exclusion/Other	105
+Pattern 3 (Serine)	Family	Burkholderiaceae	Pseudomonadota	CF17_20	CF17_23	68.4931506849315	0.0	-1.03	0.0	Exclusion/Other	146
+Pattern 3 (Serine)	Family	Rhodobacteraceae	Pseudomonadota	CF17_20	CF17_23	96.3855421686747	0.0	-1.0375	0.0	Exclusion/Other	83
+Pattern 3 (Serine)	Family	Porphyromonadaceae	Bacteroidota	CF17_20	CF17_23	95.58823529411764	0.0	-1.0461538461538462	0.0	Exclusion/Other	68
+Pattern 3 (Serine)	Family	Sphingomonadaceae	Pseudomonadota	CF17_20	CF17_23	43.93939393939394	0.0	-1.0689655172413792	0.0	Exclusion/Other	132
+Pattern 3 (Serine)	Family	Propionibacteriaceae	Actinomycetota	CF17_20	CF17_23	95.0	1.66666666666666	-1.0	1.0	Actinomycetota	60
+Pattern 3 (Serine)	Family	Microbacteriaceae	Actinomycetota	CF17_20	CF17_23	77.19298245614034	0.0	-1.0	0.0	Exclusion/Other	57
+Pattern 3 (Serine)	Family	Actinomycetaceae	Actinomycetota	CF17_20	CF17_23	72.88135593220339	0.0	-1.0232558139534884	0.0	Exclusion/Other	59
+Pattern 3 (Serine)	Family	Dermatophilaceae	Actinomycetota	CF17_20	CF17_23	81.63265306122449	0.0	-1.0	0.0	Exclusion/Other	49
+Pattern 3 (Serine)	Family	Chitinophagaceae	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	38
+Pattern 3 (Serine)	Family	Neisseriaceae	Pseudomonadota	CF17_20	CF17_23	52.77777777777778	0.0	-1.0789473684210529	0.0	Exclusion/Other	72
+Pattern 3 (Serine)	Family	Bifidobacteriaceae	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.0277777777777777	0.0	Exclusion/Other	36
+Pattern 3 (Serine)	Family	Sphingobacteriaceae	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	27
+Pattern 3 (Serine)	Family	Flavobacteriaceae	Bacteroidota	CF17_20	CF17_23	95.0	0.0	-1.0526315789473684	0.0	Exclusion/Other	20
+Pattern 3 (Serine)	Family	Pasteurellaceae	Pseudomonadota	CF17_20	CF17_23	90.0	0.0	-1.0555555555555556	0.0	Exclusion/Other	20
+Pattern 3 (Serine)	Family	Dermabacteraceae	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.0666666666666669	0.0	Exclusion/Other	15
+Pattern 3 (Serine)	Family	Rhizobiaceae	Pseudomonadota	CF17_20	CF17_23	72.22222222222221	0.0	-1.0	0.0	Exclusion/Other	18
+Pattern 3 (Serine)	Family	Alteromonadaceae	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 3 (Serine)	Family	Peptostreptococcaceae	Bacillota	CF17_20	CF17_23	92.30769230769232	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 3 (Serine)	Family	Beijerinckiaceae	Pseudomonadota	CF17_20	CF17_23	64.70588235294117	0.0	-1.181818181818182	0.0	Exclusion/Other	17
+Pattern 3 (Serine)	Family	Brevibacteriaceae	Actinomycetota	CF17_20	CF17_23	76.92307692307693	0.0	-1.1	0.0	Exclusion/Other	13
+Pattern 3 (Serine)	Family	Legionellaceae	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 3 (Serine)	Family	Muribaculaceae	Bacteroidota	CF17_20	CF17_23	85.71428571428571	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 3 (Serine)	Family	Acetobacteraceae	Pseudomonadota	CF17_20	CF17_23	50.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Family	Streptococcaceae	Bacillota	CF17_20	CF17_23	8.0	88.0	-1.0	1.0	Bacillota	50
+Pattern 3 (Serine)	Family	Planctomycetaceae	Planctomycetota	CF17_20	CF17_23	57.14285714285714	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 3 (Serine)	Family	Caulobacteraceae	Pseudomonadota	CF17_20	CF17_23	4.91803278688524	0.0	-1.0	0.0	Exclusion/Other	61
+Pattern 3 (Serine)	Family	BA12	Bacteroidota_A	CF17_20	CF17_23	50.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Family	Polyangiaceae	Myxococcota	CF17_20	CF17_23	50.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Family	Rhodocyclaceae	Pseudomonadota	CF17_20	CF17_23	13.33333333333333	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 3 (Serine)	Family	UBA9547	Bacteroidota	CF17_20	CF17_23	16.66666666666666	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Family	JADMJV01	Vulcanimicrobiota	CF17_20	CF17_23	6.66666666666666	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 3 (Serine)	Family	Lactobacillaceae	Bacillota	CF17_20	CF17_23	2.2222222222222197	64.44444444444444	-1.0	1.0344827586206895	Bacillota	45
+Pattern 3 (Serine)	Family	Bdellovibrionaceae	Bdellovibrionota	CF17_20	CF17_23	5.55555555555555	0.0	-1.0	0.0	Exclusion/Other	18
+Pattern 3 (Serine)	Genus	Corynebacterium	Actinomycetota	CF17_20	CF17_23	90.29850746268656	0.0	-1.3512396694214877	0.0	Exclusion/Other	268
+Pattern 3 (Serine)	Genus	Prevotella	Bacteroidota	CF17_20	CF17_23	95.95959595959596	0.0	-1.0	0.0	Exclusion/Other	99
+Pattern 3 (Serine)	Genus	Rothia	Actinomycetota	CF17_20	CF17_23	98.63013698630137	0.0	-1.25	0.0	Exclusion/Other	73
+Pattern 3 (Serine)	Genus	Pantoea	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.2830188679245282	0.0	Exclusion/Other	53
+Pattern 3 (Serine)	Genus	Moraxella_A	Pseudomonadota	CF17_20	CF17_23	98.07692307692308	0.0	-1.0	0.0	Exclusion/Other	52
+Pattern 3 (Serine)	Genus	Klebsiella	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-2.58	0.0	Exclusion/Other	50
+Pattern 3 (Serine)	Genus	Pseudomonas_E	Pseudomonadota	CF17_20	CF17_23	96.0	0.0	-2.5	0.0	Exclusion/Other	50
+Pattern 3 (Serine)	Genus	Kocuria	Actinomycetota	CF17_20	CF17_23	97.82608695652173	0.0	-1.022222222222222	0.0	Exclusion/Other	46
+Pattern 3 (Serine)	Genus	Porphyromonas	Bacteroidota	CF17_20	CF17_23	95.34883720930232	0.0	-1.0731707317073171	0.0	Exclusion/Other	43
+Pattern 3 (Serine)	Genus	Paracoccus	Pseudomonadota	CF17_20	CF17_23	97.61904761904762	0.0	-1.024390243902439	0.0	Exclusion/Other	42
+Pattern 3 (Serine)	Genus	Cutibacterium	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	40
+Pattern 3 (Serine)	Genus	Stenotrophomonas	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0526315789473684	0.0	Exclusion/Other	38
+Pattern 3 (Serine)	Genus	Neisseria	Pseudomonadota	CF17_20	CF17_23	94.87179487179488	0.0	-1.0810810810810811	0.0	Exclusion/Other	39
+Pattern 3 (Serine)	Genus	Microbacterium	Actinomycetota	CF17_20	CF17_23	94.59459459459461	0.0	-1.0	0.0	Exclusion/Other	37
+Pattern 3 (Serine)	Genus	Bifidobacterium	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.0294117647058822	0.0	Exclusion/Other	34
+Pattern 3 (Serine)	Genus	Serratia	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.9090909090909087	0.0	Exclusion/Other	33
+Pattern 3 (Serine)	Genus	Acinetobacter	Pseudomonadota	CF17_20	CF17_23	32.18390804597701	1.14942528735632	-1.0	1.0	Pseudomonadota	87
+Pattern 3 (Serine)	Genus	Pseudomonas_B	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0357142857142858	0.0	Exclusion/Other	28
+Pattern 3 (Serine)	Genus	Micrococcus	Actinomycetota	CF17_20	CF17_23	96.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 3 (Serine)	Genus	Porphyromonas_A	Bacteroidota	CF17_20	CF17_23	96.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 3 (Serine)	Genus	Chryseobacterium	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	23
+Pattern 3 (Serine)	Genus	Kaistella	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0909090909090908	0.0	Exclusion/Other	22
+Pattern 3 (Serine)	Genus	Epilithonimonas	Bacteroidota	CF17_20	CF17_23	95.65217391304348	0.0	-1.0	0.0	Exclusion/Other	23
+Pattern 3 (Serine)	Genus	Moraxella	Pseudomonadota	CF17_20	CF17_23	80.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 3 (Serine)	Genus	Alloprevotella	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	20
+Pattern 3 (Serine)	Genus	Leclercia	Pseudomonadota	CF17_20	CF17_23	95.0	0.0	-1.894736842105263	0.0	Exclusion/Other	20
+Pattern 3 (Serine)	Genus	Aquincola	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0526315789473684	0.0	Exclusion/Other	19
+Pattern 3 (Serine)	Genus	Telluria	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0555555555555556	0.0	Exclusion/Other	18
+Pattern 3 (Serine)	Genus	Psychrobacter	Pseudomonadota	CF17_20	CF17_23	94.73684210526316	0.0	-1.0555555555555556	0.0	Exclusion/Other	19
+Pattern 3 (Serine)	Genus	CU05-9	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 3 (Serine)	Genus	Empedobacter	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 3 (Serine)	Genus	Haematobacter	Pseudomonadota	CF17_20	CF17_23	89.47368421052632	0.0	-1.0	0.0	Exclusion/Other	19
+Pattern 3 (Serine)	Genus	Solilutibacter	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 3 (Serine)	Genus	Mobiluncus	Actinomycetota	CF17_20	CF17_23	82.35294117647058	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 3 (Serine)	Genus	Enterobacter	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.9285714285714288	0.0	Exclusion/Other	14
+Pattern 3 (Serine)	Genus	Pedobacter	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	14
+Pattern 3 (Serine)	Genus	Sphingobacterium	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 3 (Serine)	Genus	Nemorincola	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 3 (Serine)	Genus	Stutzerimonas	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.1666666666666667	0.0	Exclusion/Other	12
+Pattern 3 (Serine)	Genus	Pararheinheimera	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 3 (Serine)	Genus	Peptostreptococcus	Bacillota	CF17_20	CF17_23	92.30769230769232	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 3 (Serine)	Genus	Actinomyces	Actinomycetota	CF17_20	CF17_23	91.66666666666666	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 3 (Serine)	Genus	Flavobacterium	Bacteroidota	CF17_20	CF17_23	91.66666666666666	0.0	-1.0909090909090908	0.0	Exclusion/Other	12
+Pattern 3 (Serine)	Genus	Dermacoccus	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Brevibacterium	Actinomycetota	CF17_20	CF17_23	76.92307692307693	0.0	-1.1	0.0	Exclusion/Other	13
+Pattern 3 (Serine)	Genus	JAGLBA01	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Nesterenkonia	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Haemophilus_D	Pseudomonadota	CF17_20	CF17_23	90.90909090909092	0.0	-1.1	0.0	Exclusion/Other	11
+Pattern 3 (Serine)	Genus	Ferruginibacter	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Sphingopyxis	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.1	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Janibacter_A	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Unclassified_Sphingomonadaceae	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.1	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Pseudoxanthomonas_B	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Cruoricaptor	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Acidovorax	Pseudomonadota	CF17_20	CF17_23	90.90909090909092	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 3 (Serine)	Genus	Pelomonas	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Bosea	Pseudomonadota	CF17_20	CF17_23	83.33333333333334	0.0	-1.2	0.0	Exclusion/Other	12
+Pattern 3 (Serine)	Genus	Pluralibacter	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-3.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Yokenella	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-3.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Aquabacterium	Pseudomonadota	CF17_20	CF17_23	39.130434782608695	0.0	-1.1111111111111112	0.0	Exclusion/Other	23
+Pattern 3 (Serine)	Genus	Neomicrococcus	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 3 (Serine)	Genus	Dermabacter	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 3 (Serine)	Genus	Janibacter	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 3 (Serine)	Genus	Diaphorobacter	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 3 (Serine)	Genus	Capnocytophaga	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 3 (Serine)	Genus	Winkia	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 3 (Serine)	Genus	Duffyella	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 3 (Serine)	Genus	Amaricoccus	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.25	0.0	Exclusion/Other	8
+Pattern 3 (Serine)	Genus	Xanthomonas	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 3 (Serine)	Genus	Metapseudomonas	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-2.0	0.0	Exclusion/Other	8
+Pattern 3 (Serine)	Genus	Ottowia	Pseudomonadota	CF17_20	CF17_23	53.333333333333336	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 3 (Serine)	Genus	Pseudoclavibacter	Actinomycetota	CF17_20	CF17_23	77.77777777777779	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 3 (Serine)	Genus	Blastomonas	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 3 (Serine)	Genus	Rhodobacter_F	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 3 (Serine)	Genus	Flavihumibacter	Bacteroidota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Genus	Sodaliphilus	Bacteroidota	CF17_20	CF17_23	85.71428571428571	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 3 (Serine)	Genus	Lysobacter_I	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Genus	Aestuariimicrobium	Actinomycetota	CF17_20	CF17_23	100.0	16.66666666666666	-1.0	1.0	Actinomycetota	6
+Pattern 3 (Serine)	Genus	Rhodoferax_C	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Genus	Thermomonas	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Genus	Pseudomonas	Pseudomonadota	CF17_20	CF17_23	100.0	0.0	-2.0	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Genus	Brachybacterium	Actinomycetota	CF17_20	CF17_23	100.0	0.0	-1.1666666666666667	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Genus	Sphingomonas	Pseudomonadota	CF17_20	CF17_23	16.66666666666666	0.0	-1.4	0.0	Exclusion/Other	30
+Pattern 3 (Serine)	Genus	Mycobacterium	Actinomycetota	CF17_20	CF17_23	29.411764705882348	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 3 (Serine)	Genus	Streptococcus	Bacillota	CF17_20	CF17_23	10.52631578947368	84.21052631578947	-1.0	1.0	Bacillota	38
+Pattern 3 (Serine)	Genus	Yimella	Actinomycetota	CF17_20	CF17_23	44.44444444444444	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 3 (Serine)	Genus	BA12	Bacteroidota_A	CF17_20	CF17_23	50.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 3 (Serine)	Genus	Sandaracinobacteroides	Pseudomonadota	CF17_20	CF17_23	10.0	0.0	-1.0	0.0	Exclusion/Other	20
+Pattern 3 (Serine)	Genus	Gordonia	Actinomycetota	CF17_20	CF17_23	6.25	0.0	-1.0	0.0	Exclusion/Other	16
+Pattern 3 (Serine)	Genus	Allosphingosinicella	Pseudomonadota	CF17_20	CF17_23	10.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Gulosibacter	Actinomycetota	CF17_20	CF17_23	11.11111111111111	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 3 (Serine)	Genus	Comamonas	Pseudomonadota	CF17_20	CF17_23	8.33333333333333	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 3 (Serine)	Genus	Bergeyella_A	Bacteroidota	CF17_20	CF17_23	14.28571428571428	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 3 (Serine)	Phylum	Deinococcota	Deinococcota	CF17_20	CF17_23	0.0	85.71428571428571	0.0	1.0	Exclusion/Other	28
+Pattern 3 (Serine)	Phylum	Spirochaetota	Spirochaetota	CF17_20	CF17_23	0.0	37.5	0.0	1.0	Exclusion/Other	8
+Pattern 3 (Serine)	Class	Negativicutes	Bacillota	CF17_20	CF17_23	0.0	86.15384615384616	0.0	1.0178571428571428	Exclusion/Other	65
+Pattern 3 (Serine)	Class	Coriobacteriia	Actinomycetota	CF17_20	CF17_23	0.0	94.73684210526316	0.0	1.0	Exclusion/Other	57
+Pattern 3 (Serine)	Class	Deinococci	Deinococcota	CF17_20	CF17_23	0.0	85.71428571428571	0.0	1.0	Exclusion/Other	28
+Pattern 3 (Serine)	Class	Spirochaetia	Spirochaetota	CF17_20	CF17_23	0.0	42.85714285714285	0.0	1.0	Exclusion/Other	7
+Pattern 3 (Serine)	Order	Staphylococcales	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.271186440677966	Exclusion/Other	177
+Pattern 3 (Serine)	Order	Tissierellales	Bacillota	CF17_20	CF17_23	0.0	99.43181818181817	0.0	1.0171428571428571	Exclusion/Other	176
+Pattern 3 (Serine)	Order	Bacillales	Bacillota	CF17_20	CF17_23	0.0	96.66666666666669	0.0	1.1724137931034482	Exclusion/Other	60
+Pattern 3 (Serine)	Order	Coriobacteriales	Actinomycetota	CF17_20	CF17_23	0.0	94.73684210526316	0.0	1.0	Exclusion/Other	57
+Pattern 3 (Serine)	Order	Veillonellales	Bacillota	CF17_20	CF17_23	0.0	92.98245614035088	0.0	1.018867924528302	Exclusion/Other	57
+Pattern 3 (Serine)	Order	Lachnospirales	Bacillota	CF17_20	CF17_23	0.0	74.35897435897436	0.0	1.1724137931034482	Exclusion/Other	39
+Pattern 3 (Serine)	Order	Bacillales_A	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	28
+Pattern 3 (Serine)	Order	Deinococcales	Deinococcota	CF17_20	CF17_23	0.0	85.71428571428571	0.0	1.0	Exclusion/Other	28
+Pattern 3 (Serine)	Order	Saccharofermentanales	Bacillota	CF17_20	CF17_23	0.0	92.85714285714286	0.0	1.0	Exclusion/Other	14
+Pattern 3 (Serine)	Order	Oscillospirales	Bacillota	CF17_20	CF17_23	0.0	38.88888888888889	0.0	1.1428571428571428	Exclusion/Other	18
+Pattern 3 (Serine)	Order	Treponematales	Spirochaetota	CF17_20	CF17_23	0.0	42.85714285714285	0.0	1.0	Exclusion/Other	7
+Pattern 3 (Serine)	Family	Peptoniphilaceae	Bacillota	CF17_20	CF17_23	0.0	99.43181818181817	0.0	1.0171428571428571	Exclusion/Other	176
+Pattern 3 (Serine)	Family	Staphylococcaceae	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.2962962962962965	Exclusion/Other	162
+Pattern 3 (Serine)	Family	Bacillaceae_G	Bacillota	CF17_20	CF17_23	0.0	97.9591836734694	0.0	1.2083333333333333	Exclusion/Other	49
+Pattern 3 (Serine)	Family	Atopobiaceae	Actinomycetota	CF17_20	CF17_23	0.0	92.30769230769232	0.0	1.0	Exclusion/Other	39
+Pattern 3 (Serine)	Family	Enterococcaceae	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.303030303030303	Exclusion/Other	33
+Pattern 3 (Serine)	Family	Planococcaceae	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	28
+Pattern 3 (Serine)	Family	Lachnospiraceae	Bacillota	CF17_20	CF17_23	0.0	72.97297297297297	0.0	1.1851851851851851	Exclusion/Other	37
+Pattern 3 (Serine)	Family	Deinococcaceae	Deinococcota	CF17_20	CF17_23	0.0	92.0	0.0	1.0	Exclusion/Other	25
+Pattern 3 (Serine)	Family	Dialisteraceae	Bacillota	CF17_20	CF17_23	0.0	94.44444444444444	0.0	1.0588235294117647	Exclusion/Other	18
+Pattern 3 (Serine)	Family	Aerococcaceae	Bacillota	CF17_20	CF17_23	0.0	40.476190476190474	0.0	1.0	Exclusion/Other	42
+Pattern 3 (Serine)	Family	Megasphaeraceae	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	16
+Pattern 3 (Serine)	Family	Negativicoccaceae	Bacillota	CF17_20	CF17_23	0.0	85.71428571428571	0.0	1.0	Exclusion/Other	14
+Pattern 3 (Serine)	Family	Salinicoccaceae	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	11
+Pattern 3 (Serine)	Family	Bacillaceae	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	9
+Pattern 3 (Serine)	Family	Veillonellaceae	Bacillota	CF17_20	CF17_23	0.0	88.88888888888889	0.0	1.0	Exclusion/Other	9
+Pattern 3 (Serine)	Family	Eggerthellaceae	Actinomycetota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	7
+Pattern 3 (Serine)	Family	Fastidiosipilaceae	Bacillota	CF17_20	CF17_23	0.0	87.5	0.0	1.0	Exclusion/Other	8
+Pattern 3 (Serine)	Family	JAEZZM01	Actinomycetota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 3 (Serine)	Family	Hymenobacteraceae	Bacteroidota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 3 (Serine)	Family	Filifactoraceae	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 3 (Serine)	Family	DTU023	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 3 (Serine)	Family	Acutalibacteraceae	Bacillota	CF17_20	CF17_23	0.0	23.07692307692307	0.0	1.0	Exclusion/Other	13
+Pattern 3 (Serine)	Family	Treponemataceae	Spirochaetota	CF17_20	CF17_23	0.0	42.85714285714285	0.0	1.0	Exclusion/Other	7
+Pattern 3 (Serine)	Family	Anaerovoracaceae	Bacillota	CF17_20	CF17_23	0.0	33.33333333333333	0.0	1.0	Exclusion/Other	6
+Pattern 3 (Serine)	Genus	Staphylococcus	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.3241379310344827	Exclusion/Other	145
+Pattern 3 (Serine)	Genus	Bacillus_A	Bacillota	CF17_20	CF17_23	0.0	97.9591836734694	0.0	1.2083333333333333	Exclusion/Other	49
+Pattern 3 (Serine)	Genus	Anaerococcus	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0789473684210529	Exclusion/Other	38
+Pattern 3 (Serine)	Genus	Aedoeadaptatus	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	30
+Pattern 3 (Serine)	Genus	Peptoniphilus_A	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	27
+Pattern 3 (Serine)	Genus	Lactobacillus	Bacillota	CF17_20	CF17_23	0.0	90.0	0.0	1.0	Exclusion/Other	30
+Pattern 3 (Serine)	Genus	Lysinibacillus	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	25
+Pattern 3 (Serine)	Genus	Finegoldia	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	24
+Pattern 3 (Serine)	Genus	Deinococcus	Deinococcota	CF17_20	CF17_23	0.0	92.0	0.0	1.0	Exclusion/Other	25
+Pattern 3 (Serine)	Genus	Fannyhessea	Actinomycetota	CF17_20	CF17_23	0.0	95.23809523809524	0.0	1.0	Exclusion/Other	21
+Pattern 3 (Serine)	Genus	Fenollaria	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	20
+Pattern 3 (Serine)	Genus	Enterococcus_B	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	17
+Pattern 3 (Serine)	Genus	Dialister	Bacillota	CF17_20	CF17_23	0.0	94.44444444444444	0.0	1.0588235294117647	Exclusion/Other	18
+Pattern 3 (Serine)	Genus	Megasphaera_C	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	13
+Pattern 3 (Serine)	Genus	Lactococcus	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	12
+Pattern 3 (Serine)	Genus	Negativicoccus	Bacillota	CF17_20	CF17_23	0.0	84.61538461538461	0.0	1.0	Exclusion/Other	13
+Pattern 3 (Serine)	Genus	Ezakiella	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	11
+Pattern 3 (Serine)	Genus	Jeotgalicoccus	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Enterococcus	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	2.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Murdochiella	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 3 (Serine)	Genus	Abiotrophia	Bacillota	CF17_20	CF17_23	0.0	81.81818181818183	0.0	1.0	Exclusion/Other	11
+Pattern 3 (Serine)	Genus	Bacillus	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	9
+Pattern 3 (Serine)	Genus	Atopobium	Actinomycetota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	9
+Pattern 3 (Serine)	Genus	Moryella	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	8
+Pattern 3 (Serine)	Genus	Mammaliicoccus	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	8
+Pattern 3 (Serine)	Genus	Urinicoccus	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	8
+Pattern 3 (Serine)	Genus	Olegusella	Actinomycetota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	7
+Pattern 3 (Serine)	Genus	Berryella	Actinomycetota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	7
+Pattern 3 (Serine)	Genus	Macrococcoides	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.1428571428571428	Exclusion/Other	7
+Pattern 3 (Serine)	Genus	JANNMJ01	Bacteroidota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 3 (Serine)	Genus	Amygdalobacter	Bacillota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 3 (Serine)	Genus	JASBYZ01	Actinomycetota	CF17_20	CF17_23	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 3 (Serine)	Genus	Agathobacter	Bacillota	CF17_20	CF17_23	0.0	16.66666666666666	0.0	1.0	Exclusion/Other	6
+Pattern 4 (Symporter)	Phylum	Actinomycetota	Actinomycetota	CF2_4	CF2_10	85.07462686567165	32.83582089552239	-1.0458839406207827	1.2517482517482517	Actinomycetota	871
+Pattern 4 (Symporter)	Phylum	Pseudomonadota	Pseudomonadota	CF2_4	CF2_10	53.64775239498895	49.59469417833456	-1.3543956043956045	1.8424962852897475	Pseudomonadota	1357
+Pattern 4 (Symporter)	Phylum	Bacillota	Bacillota	CF2_4	CF2_10	88.14180929095355	71.760391198044	-1.0360610263522885	1.385008517887564	Bacillota	818
+Pattern 4 (Symporter)	Phylum	Bacteroidota	Bacteroidota	CF2_4	CF2_10	34.46808510638298	21.48936170212766	-1.0061728395061729	1.0	Bacteroidota	470
+Pattern 4 (Symporter)	Phylum	Deinococcota	Deinococcota	CF2_4	CF2_10	82.14285714285714	0.0	-1.0	0.0	Exclusion/Other	28
+Pattern 4 (Symporter)	Phylum	Campylobacterota	Campylobacterota	CF2_4	CF2_10	88.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 4 (Symporter)	Phylum	Fusobacteriota	Fusobacteriota	CF2_4	CF2_10	100.0	16.66666666666666	-1.0	2.0	Fusobacteriota	6
+Pattern 4 (Symporter)	Phylum	Spirochaetota	Spirochaetota	CF2_4	CF2_10	50.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 4 (Symporter)	Class	Actinomycetes	Actinomycetota	CF2_4	CF2_10	86.23279098873591	35.16896120150187	-1.0478955007256894	1.2562277580071175	Actinomycetota	799
+Pattern 4 (Symporter)	Class	Gammaproteobacteria	Pseudomonadota	CF2_4	CF2_10	71.81628392484343	62.00417536534447	-1.375	1.9259259259259256	Pseudomonadota	958
+Pattern 4 (Symporter)	Class	Bacilli	Bacillota	CF2_4	CF2_10	97.45762711864407	90.2542372881356	-1.0304347826086957	1.488262910798122	Bacillota	472
+Pattern 4 (Symporter)	Class	Clostridia	Bacillota	CF2_4	CF2_10	69.67509025270758	45.12635379061371	-1.0518134715025906	1.112	Bacillota	277
+Pattern 4 (Symporter)	Class	Bacteroidia	Bacteroidota	CF2_4	CF2_10	34.46808510638298	21.48936170212766	-1.0061728395061729	1.0	Bacteroidota	470
+Pattern 4 (Symporter)	Class	Negativicutes	Bacillota	CF2_4	CF2_10	98.46153846153848	55.38461538461539	-1.03125	1.1111111111111112	Bacillota	65
+Pattern 4 (Symporter)	Class	Coriobacteriia	Actinomycetota	CF2_4	CF2_10	82.45614035087719	8.7719298245614	-1.0212765957446808	1.0	Actinomycetota	57
+Pattern 4 (Symporter)	Class	Alphaproteobacteria	Pseudomonadota	CF2_4	CF2_10	10.0250626566416	19.79949874686716	-1.0	1.2151898734177216	Pseudomonadota	399
+Pattern 4 (Symporter)	Class	Deinococci	Deinococcota	CF2_4	CF2_10	82.14285714285714	0.0	-1.0	0.0	Exclusion/Other	28
+Pattern 4 (Symporter)	Class	Campylobacteria	Campylobacterota	CF2_4	CF2_10	88.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 4 (Symporter)	Class	Fusobacteriia	Fusobacteriota	CF2_4	CF2_10	100.0	16.66666666666666	-1.0	2.0	Fusobacteriota	6
+Pattern 4 (Symporter)	Class	Thermoleophilia	Actinomycetota	CF2_4	CF2_10	41.66666666666667	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 4 (Symporter)	Class	Spirochaetia	Spirochaetota	CF2_4	CF2_10	57.14285714285714	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 4 (Symporter)	Order	Actinomycetales	Actinomycetota	CF2_4	CF2_10	90.07444168734492	26.0545905707196	-1.0495867768595042	1.2952380952380953	Actinomycetota	403
+Pattern 4 (Symporter)	Order	Pseudomonadales	Pseudomonadota	CF2_4	CF2_10	88.1619937694704	65.10903426791276	-1.222614840989399	2.2200956937799043	Pseudomonadota	321
+Pattern 4 (Symporter)	Order	Mycobacteriales	Actinomycetota	CF2_4	CF2_10	81.09756097560977	53.04878048780488	-1.056390977443609	1.2241379310344829	Actinomycetota	328
+Pattern 4 (Symporter)	Order	Enterobacterales	Pseudomonadota	CF2_4	CF2_10	94.90909090909092	93.45454545454545	-1.735632183908046	1.9844357976653697	Pseudomonadota	275
+Pattern 4 (Symporter)	Order	Lactobacillales	Bacillota	CF2_4	CF2_10	98.42105263157895	82.10526315789474	-1.032085561497326	1.2435897435897436	Bacillota	190
+Pattern 4 (Symporter)	Order	Staphylococcales	Bacillota	CF2_4	CF2_10	98.87005649717514	96.61016949152543	-1.0342857142857145	1.0584795321637428	Bacillota	177
+Pattern 4 (Symporter)	Order	Bacteroidales	Bacteroidota	CF2_4	CF2_10	68.26923076923077	48.07692307692308	-1.0070422535211268	1.0	Bacteroidota	208
+Pattern 4 (Symporter)	Order	Burkholderiales	Pseudomonadota	CF2_4	CF2_10	60.256410256410255	53.84615384615385	-1.0212765957446808	1.3333333333333333	Pseudomonadota	234
+Pattern 4 (Symporter)	Order	Tissierellales	Bacillota	CF2_4	CF2_10	69.31818181818183	42.61363636363636	-1.024590163934426	1.0533333333333332	Bacillota	176
+Pattern 4 (Symporter)	Order	Propionibacteriales	Actinomycetota	CF2_4	CF2_10	88.23529411764706	2.94117647058823	-1.0	2.0	Actinomycetota	68
+Pattern 4 (Symporter)	Order	Bacillales	Bacillota	CF2_4	CF2_10	98.33333333333331	98.33333333333331	-1.0	2.8983050847457625	Bacillota	60
+Pattern 4 (Symporter)	Order	Veillonellales	Bacillota	CF2_4	CF2_10	98.24561403508773	63.1578947368421	-1.0357142857142858	1.1111111111111112	Bacillota	57
+Pattern 4 (Symporter)	Order	Coriobacteriales	Actinomycetota	CF2_4	CF2_10	82.45614035087719	8.7719298245614	-1.0212765957446808	1.0	Actinomycetota	57
+Pattern 4 (Symporter)	Order	Lachnospirales	Bacillota	CF2_4	CF2_10	76.92307692307693	58.97435897435898	-1.0666666666666669	1.2173913043478262	Bacillota	39
+Pattern 4 (Symporter)	Order	Bacillales_A	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0714285714285714	2.4285714285714284	Bacillota	28
+Pattern 4 (Symporter)	Order	Deinococcales	Deinococcota	CF2_4	CF2_10	82.14285714285714	0.0	-1.0	0.0	Exclusion/Other	28
+Pattern 4 (Symporter)	Order	Campylobacterales	Campylobacterota	CF2_4	CF2_10	88.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 4 (Symporter)	Order	Rhizobiales	Pseudomonadota	CF2_4	CF2_10	53.65853658536586	31.70731707317073	-1.0	1.3076923076923077	Pseudomonadota	41
+Pattern 4 (Symporter)	Order	Flavobacteriales	Bacteroidota	CF2_4	CF2_10	12.101910828025469	0.0	-1.0	0.0	Exclusion/Other	157
+Pattern 4 (Symporter)	Order	Oscillospirales	Bacillota	CF2_4	CF2_10	94.44444444444444	16.66666666666666	-1.0	1.0	Bacillota	18
+Pattern 4 (Symporter)	Order	Rhodobacterales	Pseudomonadota	CF2_4	CF2_10	20.48192771084337	68.67469879518072	-1.0	1.2105263157894737	Pseudomonadota	83
+Pattern 4 (Symporter)	Order	Saccharofermentanales	Bacillota	CF2_4	CF2_10	100.0	35.71428571428571	-1.3571428571428572	1.0	Bacillota	14
+Pattern 4 (Symporter)	Order	Peptostreptococcales	Bacillota	CF2_4	CF2_10	32.0	72.0	-1.0	1.1666666666666667	Bacillota	25
+Pattern 4 (Symporter)	Order	Fusobacteriales	Fusobacteriota	CF2_4	CF2_10	100.0	16.66666666666666	-1.0	2.0	Fusobacteriota	6
+Pattern 4 (Symporter)	Order	Solirubrobacterales	Actinomycetota	CF2_4	CF2_10	41.66666666666667	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 4 (Symporter)	Order	Treponematales	Spirochaetota	CF2_4	CF2_10	57.14285714285714	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 4 (Symporter)	Order	Acetobacterales	Pseudomonadota	CF2_4	CF2_10	10.0	70.0	-1.0	1.1428571428571428	Pseudomonadota	10
+Pattern 4 (Symporter)	Order	Chitinophagales	Bacteroidota	CF2_4	CF2_10	2.32558139534883	2.32558139534883	-1.0	1.0	Bacteroidota	43
+Pattern 4 (Symporter)	Family	Mycobacteriaceae	Actinomycetota	CF2_4	CF2_10	80.98159509202453	53.06748466257669	-1.056818181818182	1.2080924855491328	Actinomycetota	326
+Pattern 4 (Symporter)	Family	Enterobacteriaceae	Pseudomonadota	CF2_4	CF2_10	99.57805907172997	99.57805907172997	-1.7966101694915255	2.067796610169492	Pseudomonadota	237
+Pattern 4 (Symporter)	Family	Moraxellaceae	Pseudomonadota	CF2_4	CF2_10	84.61538461538461	51.442307692307686	-1.3522727272727273	1.5700934579439252	Pseudomonadota	208
+Pattern 4 (Symporter)	Family	Micrococcaceae	Actinomycetota	CF2_4	CF2_10	97.05882352941177	35.29411764705882	-1.0303030303030305	1.4666666666666666	Actinomycetota	170
+Pattern 4 (Symporter)	Family	Staphylococcaceae	Bacillota	CF2_4	CF2_10	99.38271604938272	96.29629629629628	-1.0124223602484472	1.0064102564102564	Bacillota	162
+Pattern 4 (Symporter)	Family	Peptoniphilaceae	Bacillota	CF2_4	CF2_10	69.31818181818183	42.61363636363636	-1.024590163934426	1.0533333333333332	Bacillota	176
+Pattern 4 (Symporter)	Family	Bacteroidaceae	Bacteroidota	CF2_4	CF2_10	83.87096774193549	71.7741935483871	-1.0	1.0	Bacteroidota	124
+Pattern 4 (Symporter)	Family	Pseudomonadaceae	Pseudomonadota	CF2_4	CF2_10	99.04761904761904	96.1904761904762	-1.0096153846153846	2.9207920792079207	Pseudomonadota	105
+Pattern 4 (Symporter)	Family	Burkholderiaceae	Pseudomonadota	CF2_4	CF2_10	60.95890410958904	58.9041095890411	-1.0112359550561798	1.4767441860465116	Pseudomonadota	146
+Pattern 4 (Symporter)	Family	Propionibacteriaceae	Actinomycetota	CF2_4	CF2_10	96.66666666666669	3.33333333333333	-1.0	2.0	Actinomycetota	60
+Pattern 4 (Symporter)	Family	Actinomycetaceae	Actinomycetota	CF2_4	CF2_10	91.52542372881356	40.67796610169492	-1.037037037037037	1.0	Actinomycetota	59
+Pattern 4 (Symporter)	Family	Streptococcaceae	Bacillota	CF2_4	CF2_10	100.0	88.0	-1.1	1.0	Bacillota	50
+Pattern 4 (Symporter)	Family	Bacillaceae_G	Bacillota	CF2_4	CF2_10	97.9591836734694	100.0	-1.0	3.061224489795918	Bacillota	49
+Pattern 4 (Symporter)	Family	Microbacteriaceae	Actinomycetota	CF2_4	CF2_10	80.7017543859649	8.7719298245614	-1.0217391304347827	1.0	Actinomycetota	57
+Pattern 4 (Symporter)	Family	Lactobacillaceae	Bacillota	CF2_4	CF2_10	93.33333333333333	82.22222222222221	-1.0	1.2972972972972974	Bacillota	45
+Pattern 4 (Symporter)	Family	Aerococcaceae	Bacillota	CF2_4	CF2_10	100.0	73.80952380952381	-1.0238095238095235	1.064516129032258	Bacillota	42
+Pattern 4 (Symporter)	Family	Neisseriaceae	Pseudomonadota	CF2_4	CF2_10	54.166666666666664	55.55555555555556	-1.051282051282051	1.025	Pseudomonadota	72
+Pattern 4 (Symporter)	Family	Porphyromonadaceae	Bacteroidota	CF2_4	CF2_10	54.41176470588235	14.705882352941169	-1.027027027027027	1.0	Bacteroidota	68
+Pattern 4 (Symporter)	Family	Dermatophilaceae	Actinomycetota	CF2_4	CF2_10	73.46938775510205	14.28571428571428	-1.0555555555555556	1.2857142857142858	Actinomycetota	49
+Pattern 4 (Symporter)	Family	Bifidobacteriaceae	Actinomycetota	CF2_4	CF2_10	100.0	5.55555555555555	-1.1388888888888888	1.0	Actinomycetota	36
+Pattern 4 (Symporter)	Family	Enterococcaceae	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0	1.7575757575757576	Bacillota	33
+Pattern 4 (Symporter)	Family	Lachnospiraceae	Bacillota	CF2_4	CF2_10	81.08108108108108	59.45945945945946	-1.0666666666666669	1.181818181818182	Bacillota	37
+Pattern 4 (Symporter)	Family	Atopobiaceae	Actinomycetota	CF2_4	CF2_10	74.35897435897436	0.0	-1.0344827586206895	0.0	Exclusion/Other	39
+Pattern 4 (Symporter)	Family	Planococcaceae	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0714285714285714	2.4285714285714284	Bacillota	28
+Pattern 4 (Symporter)	Family	Deinococcaceae	Deinococcota	CF2_4	CF2_10	92.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 4 (Symporter)	Family	Campylobacteraceae	Campylobacterota	CF2_4	CF2_10	88.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 4 (Symporter)	Family	Carnobacteriaceae	Bacillota	CF2_4	CF2_10	100.0	52.63157894736842	-1.0	1.0	Bacillota	19
+Pattern 4 (Symporter)	Family	Pasteurellaceae	Pseudomonadota	CF2_4	CF2_10	95.0	75.0	-1.1578947368421053	1.0666666666666669	Pseudomonadota	20
+Pattern 4 (Symporter)	Family	Weeksellaceae	Bacteroidota	CF2_4	CF2_10	14.17910447761194	0.0	-1.0	0.0	Exclusion/Other	134
+Pattern 4 (Symporter)	Family	Dialisteraceae	Bacillota	CF2_4	CF2_10	100.0	66.66666666666666	-1.0	1.0833333333333333	Bacillota	18
+Pattern 4 (Symporter)	Family	Rhodobacteraceae	Pseudomonadota	CF2_4	CF2_10	20.48192771084337	68.67469879518072	-1.0	1.2105263157894737	Pseudomonadota	83
+Pattern 4 (Symporter)	Family	Megasphaeraceae	Bacillota	CF2_4	CF2_10	100.0	18.75	-1.0	1.0	Bacillota	16
+Pattern 4 (Symporter)	Family	Dermabacteraceae	Actinomycetota	CF2_4	CF2_10	93.33333333333333	33.33333333333333	-1.0	1.0	Actinomycetota	15
+Pattern 4 (Symporter)	Family	Negativicoccaceae	Bacillota	CF2_4	CF2_10	92.85714285714286	85.71428571428571	-1.1538461538461535	1.0	Bacillota	14
+Pattern 4 (Symporter)	Family	Acutalibacteraceae	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 4 (Symporter)	Family	Beijerinckiaceae	Pseudomonadota	CF2_4	CF2_10	76.47058823529412	11.76470588235294	-1.0	1.0	Pseudomonadota	17
+Pattern 4 (Symporter)	Family	Rhodocyclaceae	Pseudomonadota	CF2_4	CF2_10	86.66666666666667	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 4 (Symporter)	Family	Salinicoccaceae	Bacillota	CF2_4	CF2_10	90.90909090909092	100.0	-1.4	1.5454545454545454	Bacillota	11
+Pattern 4 (Symporter)	Family	Rhizobiaceae	Pseudomonadota	CF2_4	CF2_10	50.0	44.44444444444444	-1.0	1.0	Pseudomonadota	18
+Pattern 4 (Symporter)	Family	Bacillaceae	Bacillota	CF2_4	CF2_10	100.0	88.88888888888889	-1.0	2.0	Bacillota	9
+Pattern 4 (Symporter)	Family	Veillonellaceae	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0	1.3333333333333333	Bacillota	9
+Pattern 4 (Symporter)	Family	Fastidiosipilaceae	Bacillota	CF2_4	CF2_10	100.0	62.5	-1.625	1.0	Bacillota	8
+Pattern 4 (Symporter)	Family	Brevibacteriaceae	Actinomycetota	CF2_4	CF2_10	61.53846153846154	15.38461538461538	-1.375	1.5	Actinomycetota	13
+Pattern 4 (Symporter)	Family	Eggerthellaceae	Actinomycetota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 4 (Symporter)	Family	DTU023	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 4 (Symporter)	Family	Anaerovoracaceae	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 4 (Symporter)	Family	JAEZZM01	Actinomycetota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 4 (Symporter)	Family	Solirubrobacteraceae	Actinomycetota	CF2_4	CF2_10	62.5	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 4 (Symporter)	Family	Treponemataceae	Spirochaetota	CF2_4	CF2_10	57.14285714285714	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 4 (Symporter)	Family	Filifactoraceae	Bacillota	CF2_4	CF2_10	33.33333333333333	83.33333333333334	-1.0	1.6	Bacillota	6
+Pattern 4 (Symporter)	Family	Nocardioidaceae	Actinomycetota	CF2_4	CF2_10	25.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 4 (Symporter)	Family	Acetobacteraceae	Pseudomonadota	CF2_4	CF2_10	10.0	70.0	-1.0	1.1428571428571428	Pseudomonadota	10
+Pattern 4 (Symporter)	Genus	Corynebacterium	Actinomycetota	CF2_4	CF2_10	85.07462686567165	45.14925373134328	-1.0175438596491229	1.0743801652892562	Actinomycetota	268
+Pattern 4 (Symporter)	Genus	Staphylococcus	Bacillota	CF2_4	CF2_10	99.3103448275862	95.86206896551724	-1.0138888888888888	1.0071942446043165	Bacillota	145
+Pattern 4 (Symporter)	Genus	Acinetobacter	Pseudomonadota	CF2_4	CF2_10	98.85057471264368	100.0	-1.6395348837209305	1.6436781609195403	Pseudomonadota	87
+Pattern 4 (Symporter)	Genus	Prevotella	Bacteroidota	CF2_4	CF2_10	85.85858585858585	85.85858585858585	-1.0	1.0	Bacteroidota	99
+Pattern 4 (Symporter)	Genus	Rothia	Actinomycetota	CF2_4	CF2_10	97.26027397260275	28.767123287671232	-1.028169014084507	1.0476190476190477	Actinomycetota	73
+Pattern 4 (Symporter)	Genus	Pantoea	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-2.150943396226415	2.1132075471698117	Pseudomonadota	53
+Pattern 4 (Symporter)	Genus	Pseudomonas_E	Pseudomonadota	CF2_4	CF2_10	100.0	92.0	-1.02	3.347826086956522	Pseudomonadota	50
+Pattern 4 (Symporter)	Genus	Klebsiella	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-2.0	2.62	Pseudomonadota	50
+Pattern 4 (Symporter)	Genus	Bacillus_A	Bacillota	CF2_4	CF2_10	97.9591836734694	100.0	-1.0	3.061224489795918	Bacillota	49
+Pattern 4 (Symporter)	Genus	Kocuria	Actinomycetota	CF2_4	CF2_10	97.82608695652173	73.91304347826086	-1.0444444444444445	1.7647058823529411	Actinomycetota	46
+Pattern 4 (Symporter)	Genus	Moraxella_A	Pseudomonadota	CF2_4	CF2_10	76.92307692307693	15.38461538461538	-1.175	1.0	Pseudomonadota	52
+Pattern 4 (Symporter)	Genus	Cutibacterium	Actinomycetota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	40
+Pattern 4 (Symporter)	Genus	Neisseria	Pseudomonadota	CF2_4	CF2_10	97.43589743589745	92.30769230769232	-1.0526315789473684	1.0277777777777777	Pseudomonadota	39
+Pattern 4 (Symporter)	Genus	Anaerococcus	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0526315789473684	1.0789473684210529	Bacillota	38
+Pattern 4 (Symporter)	Genus	Streptococcus	Bacillota	CF2_4	CF2_10	100.0	84.21052631578947	-1.131578947368421	1.0	Bacillota	38
+Pattern 4 (Symporter)	Genus	Bifidobacterium	Actinomycetota	CF2_4	CF2_10	100.0	5.88235294117647	-1.088235294117647	1.0	Actinomycetota	34
+Pattern 4 (Symporter)	Genus	Serratia	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-1.2424242424242424	1.2121212121212122	Pseudomonadota	33
+Pattern 4 (Symporter)	Genus	Microbacterium	Actinomycetota	CF2_4	CF2_10	83.78378378378379	8.1081081081081	-1.032258064516129	1.0	Actinomycetota	37
+Pattern 4 (Symporter)	Genus	Porphyromonas	Bacteroidota	CF2_4	CF2_10	72.09302325581395	23.25581395348837	-1.032258064516129	1.0	Bacteroidota	43
+Pattern 4 (Symporter)	Genus	Lactobacillus	Bacillota	CF2_4	CF2_10	96.66666666666669	100.0	-1.0	1.3333333333333333	Bacillota	30
+Pattern 4 (Symporter)	Genus	Pseudomonas_B	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-1.0	1.6428571428571428	Pseudomonadota	28
+Pattern 4 (Symporter)	Genus	Moraxella	Pseudomonadota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 4 (Symporter)	Genus	Lysinibacillus	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.08	2.12	Bacillota	25
+Pattern 4 (Symporter)	Genus	Micrococcus	Actinomycetota	CF2_4	CF2_10	96.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 4 (Symporter)	Genus	Deinococcus	Deinococcota	CF2_4	CF2_10	92.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 4 (Symporter)	Genus	Finegoldia	Bacillota	CF2_4	CF2_10	95.83333333333334	100.0	-1.0	1.0	Bacillota	24
+Pattern 4 (Symporter)	Genus	Fannyhessea	Actinomycetota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	21
+Pattern 4 (Symporter)	Genus	Leclercia	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-2.0	1.0	Pseudomonadota	20
+Pattern 4 (Symporter)	Genus	Fenollaria	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	20
+Pattern 4 (Symporter)	Genus	Aquincola	Pseudomonadota	CF2_4	CF2_10	100.0	94.73684210526316	-1.0	1.0	Pseudomonadota	19
+Pattern 4 (Symporter)	Genus	Psychrobacter	Pseudomonadota	CF2_4	CF2_10	100.0	63.1578947368421	-1.0	1.4166666666666667	Pseudomonadota	19
+Pattern 4 (Symporter)	Genus	Dialister	Bacillota	CF2_4	CF2_10	100.0	66.66666666666666	-1.0	1.0833333333333333	Bacillota	18
+Pattern 4 (Symporter)	Genus	Alloprevotella	Bacteroidota	CF2_4	CF2_10	90.0	0.0	-1.0	0.0	Exclusion/Other	20
+Pattern 4 (Symporter)	Genus	Empedobacter	Bacteroidota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 4 (Symporter)	Genus	Campylobacter_B	Campylobacterota	CF2_4	CF2_10	85.0	0.0	-1.0	0.0	Exclusion/Other	20
+Pattern 4 (Symporter)	Genus	Enterococcus_B	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0	1.0	Bacillota	17
+Pattern 4 (Symporter)	Genus	Aerococcus	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0	1.0625	Bacillota	16
+Pattern 4 (Symporter)	Genus	Mobiluncus	Actinomycetota	CF2_4	CF2_10	88.23529411764706	0.0	-1.1333333333333333	0.0	Exclusion/Other	17
+Pattern 4 (Symporter)	Genus	Ottowia	Pseudomonadota	CF2_4	CF2_10	100.0	53.333333333333336	-1.0666666666666669	1.0	Pseudomonadota	15
+Pattern 4 (Symporter)	Genus	Gordonia	Actinomycetota	CF2_4	CF2_10	93.75	100.0	-1.0	2.1875	Actinomycetota	16
+Pattern 4 (Symporter)	Genus	Enterobacter	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-2.0	1.0	Pseudomonadota	14
+Pattern 4 (Symporter)	Genus	Megasphaera_C	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	13
+Pattern 4 (Symporter)	Genus	Lactococcus	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0	1.0	Bacillota	12
+Pattern 4 (Symporter)	Genus	Lautropia	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-1.0	1.0833333333333333	Pseudomonadota	12
+Pattern 4 (Symporter)	Genus	Negativicoccus	Bacillota	CF2_4	CF2_10	92.30769230769232	92.30769230769232	-1.1666666666666667	1.0	Bacillota	13
+Pattern 4 (Symporter)	Genus	Bosea	Pseudomonadota	CF2_4	CF2_10	91.66666666666666	0.0	-1.0	0.0	Exclusion/Other	12
+Pattern 4 (Symporter)	Genus	Actinomyces	Actinomycetota	CF2_4	CF2_10	91.66666666666666	16.66666666666666	-1.0	1.0	Actinomycetota	12
+Pattern 4 (Symporter)	Genus	Ezakiella	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 4 (Symporter)	Genus	Abiotrophia	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 4 (Symporter)	Genus	Stutzerimonas	Pseudomonadota	CF2_4	CF2_10	91.66666666666666	100.0	-1.0	2.1666666666666665	Pseudomonadota	12
+Pattern 4 (Symporter)	Genus	Comamonas	Pseudomonadota	CF2_4	CF2_10	91.66666666666666	100.0	-1.0	3.583333333333333	Pseudomonadota	12
+Pattern 4 (Symporter)	Genus	Acidovorax	Pseudomonadota	CF2_4	CF2_10	100.0	27.27272727272727	-1.0	1.3333333333333333	Pseudomonadota	11
+Pattern 4 (Symporter)	Genus	Dolosigranulum	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0	1.0	Bacillota	10
+Pattern 4 (Symporter)	Genus	Yokenella	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-1.0	5.0	Pseudomonadota	10
+Pattern 4 (Symporter)	Genus	Haemophilus_D	Pseudomonadota	CF2_4	CF2_10	90.90909090909092	90.90909090909092	-1.3	1.1	Pseudomonadota	11
+Pattern 4 (Symporter)	Genus	Murdochiella	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 4 (Symporter)	Genus	Dermacoccus	Actinomycetota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 4 (Symporter)	Genus	Pluralibacter	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-1.9	4.0	Pseudomonadota	10
+Pattern 4 (Symporter)	Genus	Azonexus	Pseudomonadota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 4 (Symporter)	Genus	Enterococcus	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0	3.0	Bacillota	10
+Pattern 4 (Symporter)	Genus	Jeotgalicoccus	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.4	1.6	Bacillota	10
+Pattern 4 (Symporter)	Genus	Alloiococcus	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 4 (Symporter)	Genus	Nesterenkonia	Actinomycetota	CF2_4	CF2_10	90.0	40.0	-1.1111111111111112	1.0	Actinomycetota	10
+Pattern 4 (Symporter)	Genus	Haematobacter	Pseudomonadota	CF2_4	CF2_10	47.36842105263157	42.105263157894726	-1.0	1.0	Pseudomonadota	19
+Pattern 4 (Symporter)	Genus	Neomicrococcus	Actinomycetota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 4 (Symporter)	Genus	Diaphorobacter	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-1.0	1.0	Pseudomonadota	9
+Pattern 4 (Symporter)	Genus	Pseudoclavibacter	Actinomycetota	CF2_4	CF2_10	100.0	22.22222222222222	-1.0	1.0	Actinomycetota	9
+Pattern 4 (Symporter)	Genus	Bacillus	Bacillota	CF2_4	CF2_10	100.0	88.88888888888889	-1.0	2.0	Bacillota	9
+Pattern 4 (Symporter)	Genus	Yimella	Actinomycetota	CF2_4	CF2_10	100.0	55.55555555555556	-1.2222222222222223	1.0	Actinomycetota	9
+Pattern 4 (Symporter)	Genus	Winkia	Actinomycetota	CF2_4	CF2_10	100.0	100.0	-1.0	1.0	Actinomycetota	8
+Pattern 4 (Symporter)	Genus	Duffyella	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-2.25	2.0	Pseudomonadota	8
+Pattern 4 (Symporter)	Genus	Urinicoccus	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 4 (Symporter)	Genus	Dermabacter	Actinomycetota	CF2_4	CF2_10	88.88888888888889	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 4 (Symporter)	Genus	Mammaliicoccus	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0	1.0	Bacillota	8
+Pattern 4 (Symporter)	Genus	Varibaculum	Actinomycetota	CF2_4	CF2_10	88.88888888888889	100.0	-1.0	1.0	Actinomycetota	9
+Pattern 4 (Symporter)	Genus	Janibacter	Actinomycetota	CF2_4	CF2_10	88.88888888888889	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 4 (Symporter)	Genus	Moryella	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	8
+Pattern 4 (Symporter)	Genus	Metapseudomonas	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-1.0	5.875	Pseudomonadota	8
+Pattern 4 (Symporter)	Genus	Brevibacterium	Actinomycetota	CF2_4	CF2_10	61.53846153846154	15.38461538461538	-1.375	1.5	Actinomycetota	13
+Pattern 4 (Symporter)	Genus	Macrococcoides	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.0	1.0	Bacillota	7
+Pattern 4 (Symporter)	Genus	Leuconostoc	Bacillota	CF2_4	CF2_10	100.0	28.57142857142857	-1.0	1.0	Bacillota	7
+Pattern 4 (Symporter)	Genus	Berryella	Actinomycetota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 4 (Symporter)	Genus	Paracoccus	Pseudomonadota	CF2_4	CF2_10	16.66666666666666	88.09523809523809	-1.0	1.2432432432432432	Pseudomonadota	42
+Pattern 4 (Symporter)	Genus	Porphyromonas_A	Bacteroidota	CF2_4	CF2_10	24.0	0.0	-1.0	0.0	Exclusion/Other	25
+Pattern 4 (Symporter)	Genus	Eremococcus	Bacillota	CF2_4	CF2_10	100.0	100.0	-1.1666666666666667	1.0	Bacillota	6
+Pattern 4 (Symporter)	Genus	Amygdalobacter	Bacillota	CF2_4	CF2_10	100.0	66.66666666666666	-1.8333333333333333	1.0	Bacillota	6
+Pattern 4 (Symporter)	Genus	JASBYZ01	Actinomycetota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 4 (Symporter)	Genus	Gulosibacter	Actinomycetota	CF2_4	CF2_10	66.66666666666666	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 4 (Symporter)	Genus	Mycobacterium	Actinomycetota	CF2_4	CF2_10	35.29411764705882	88.23529411764706	-1.1666666666666667	1.2666666666666666	Actinomycetota	17
+Pattern 4 (Symporter)	Genus	Ruminococcoides	Bacillota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 4 (Symporter)	Genus	Pseudomonas	Pseudomonadota	CF2_4	CF2_10	100.0	100.0	-1.0	3.5	Pseudomonadota	6
+Pattern 4 (Symporter)	Genus	Brachybacterium	Actinomycetota	CF2_4	CF2_10	100.0	83.33333333333334	-1.0	1.0	Actinomycetota	6
+Pattern 4 (Symporter)	Genus	Aestuariimicrobium	Actinomycetota	CF2_4	CF2_10	100.0	0.0	-1.0	0.0	Exclusion/Other	6
+Pattern 4 (Symporter)	Genus	Olegusella	Actinomycetota	CF2_4	CF2_10	85.71428571428571	0.0	-1.1666666666666667	0.0	Exclusion/Other	7
+Pattern 4 (Symporter)	Genus	Agathobacter	Bacillota	CF2_4	CF2_10	83.33333333333334	83.33333333333334	-1.2	1.0	Bacillota	6
+Pattern 4 (Symporter)	Genus	Peptoniphilus_A	Bacillota	CF2_4	CF2_10	14.814814814814811	44.44444444444444	-1.0	1.0	Bacillota	27
+Pattern 4 (Symporter)	Genus	Aquabacterium	Pseudomonadota	CF2_4	CF2_10	17.391304347826082	0.0	-1.0	0.0	Exclusion/Other	23
+Pattern 4 (Symporter)	Genus	Lawsonella	Actinomycetota	CF2_4	CF2_10	23.07692307692307	76.92307692307693	-1.0	1.0	Actinomycetota	13
+Pattern 4 (Symporter)	Genus	Atopobium	Actinomycetota	CF2_4	CF2_10	22.22222222222222	0.0	-1.0	0.0	Exclusion/Other	9
+Pattern 4 (Symporter)	Genus	Amaricoccus	Pseudomonadota	CF2_4	CF2_10	12.5	100.0	-1.0	1.375	Pseudomonadota	8
+Pattern 4 (Symporter)	Genus	Cruoricaptor	Bacteroidota	CF2_4	CF2_10	10.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 4 (Symporter)	Phylum	Vulcanimicrobiota	Vulcanimicrobiota	CF2_4	CF2_10	0.0	26.66666666666666	0.0	1.0	Exclusion/Other	15
+Pattern 4 (Symporter)	Phylum	Verrucomicrobiota	Verrucomicrobiota	CF2_4	CF2_10	0.0	22.22222222222222	0.0	1.0	Exclusion/Other	9
+Pattern 4 (Symporter)	Class	Xenobia	Vulcanimicrobiota	CF2_4	CF2_10	0.0	26.66666666666666	0.0	1.0	Exclusion/Other	15
+Pattern 4 (Symporter)	Class	Verrucomicrobiia	Verrucomicrobiota	CF2_4	CF2_10	0.0	22.22222222222222	0.0	1.0	Exclusion/Other	9
+Pattern 4 (Symporter)	Order	Xenobiales	Vulcanimicrobiota	CF2_4	CF2_10	0.0	26.66666666666666	0.0	1.0	Exclusion/Other	15
+Pattern 4 (Symporter)	Order	Xanthomonadales	Pseudomonadota	CF2_4	CF2_10	0.0	1.69491525423728	0.0	1.0	Exclusion/Other	118
+Pattern 4 (Symporter)	Order	Sphingomonadales	Pseudomonadota	CF2_4	CF2_10	0.0	0.75757575757575	0.0	1.0	Exclusion/Other	132
+Pattern 4 (Symporter)	Family	Peptostreptococcaceae	Bacillota	CF2_4	CF2_10	0.0	100.0	0.0	1.0	Exclusion/Other	13
+Pattern 4 (Symporter)	Family	JADMJV01	Vulcanimicrobiota	CF2_4	CF2_10	0.0	26.66666666666666	0.0	1.0	Exclusion/Other	15
+Pattern 4 (Symporter)	Family	Xanthomonadaceae	Pseudomonadota	CF2_4	CF2_10	0.0	1.8348623853211	0.0	1.0	Exclusion/Other	109
+Pattern 4 (Symporter)	Family	Sphingomonadaceae	Pseudomonadota	CF2_4	CF2_10	0.0	0.75757575757575	0.0	1.0	Exclusion/Other	132
+Pattern 4 (Symporter)	Family	Chitinophagaceae	Bacteroidota	CF2_4	CF2_10	0.0	2.63157894736842	0.0	1.0	Exclusion/Other	38
+Pattern 4 (Symporter)	Genus	Telluria	Pseudomonadota	CF2_4	CF2_10	0.0	94.44444444444444	0.0	1.1764705882352942	Exclusion/Other	18
+Pattern 4 (Symporter)	Genus	Peptostreptococcus	Bacillota	CF2_4	CF2_10	0.0	100.0	0.0	1.0	Exclusion/Other	13
+Pattern 4 (Symporter)	Genus	Flavihumibacter	Bacteroidota	CF2_4	CF2_10	0.0	16.66666666666666	0.0	1.0	Exclusion/Other	6
+Pattern 4 (Symporter)	Genus	Stenotrophomonas	Pseudomonadota	CF2_4	CF2_10	0.0	2.63157894736842	0.0	1.0	Exclusion/Other	38
+Pattern 4 (Symporter)	Genus	QFNR01	Pseudomonadota	CF2_4	CF2_10	0.0	3.33333333333333	0.0	1.0	Exclusion/Other	30
+Pattern 5 (RNR Alpha)	Phylum	Actinomycetota	Actinomycetota	CF22	CF25	78.53042479908152	60.27554535017221	-3.875730994152047	1.0266666666666666	Actinomycetota	871
+Pattern 5 (RNR Alpha)	Phylum	Pseudomonadota	Pseudomonadota	CF22	CF25	47.16285924834193	79.66101694915254	-6.05	1.0092506938020351	Pseudomonadota	1357
+Pattern 5 (RNR Alpha)	Phylum	Bacillota	Bacillota	CF22	CF25	52.567237163814184	26.40586797066014	-4.8023255813953485	1.0138888888888888	Bacillota	818
+Pattern 5 (RNR Alpha)	Phylum	Bacteroidota	Bacteroidota	CF22	CF25	10.85106382978723	56.38297872340425	-1.0	1.0	Bacteroidota	470
+Pattern 5 (RNR Alpha)	Phylum	Planctomycetota	Planctomycetota	CF22	CF25	10.0	80.0	-1.0	1.0	Planctomycetota	10
+Pattern 5 (RNR Alpha)	Class	Actinomycetes	Actinomycetota	CF22	CF25	85.1063829787234	63.829787234042556	-3.892647058823529	1.0215686274509803	Actinomycetota	799
+Pattern 5 (RNR Alpha)	Class	Gammaproteobacteria	Pseudomonadota	CF22	CF25	63.77870563674322	77.55741127348644	-6.265139116202946	1.0080753701211305	Pseudomonadota	958
+Pattern 5 (RNR Alpha)	Class	Bacilli	Bacillota	CF22	CF25	80.50847457627118	12.5	-5.2026315789473685	1.0	Bacillota	472
+Pattern 5 (RNR Alpha)	Class	Bacteroidia	Bacteroidota	CF22	CF25	10.85106382978723	56.38297872340425	-1.0	1.0	Bacteroidota	470
+Pattern 5 (RNR Alpha)	Class	Negativicutes	Bacillota	CF22	CF25	70.76923076923077	20.0	-1.6521739130434785	1.0	Bacillota	65
+Pattern 5 (RNR Alpha)	Class	Alphaproteobacteria	Pseudomonadota	CF22	CF25	7.26817042606516	84.71177944862156	-1.5172413793103448	1.0118343195266273	Pseudomonadota	399
+Pattern 5 (RNR Alpha)	Class	Thermoleophilia	Actinomycetota	CF22	CF25	25.0	100.0	-1.0	1.25	Actinomycetota	12
+Pattern 5 (RNR Alpha)	Class	Planctomycetia	Planctomycetota	CF22	CF25	11.11111111111111	77.77777777777779	-1.0	1.0	Planctomycetota	9
+Pattern 5 (RNR Alpha)	Class	Coriobacteriia	Actinomycetota	CF22	CF25	1.75438596491228	0.0	-1.0	0.0	Exclusion/Other	57
+Pattern 5 (RNR Alpha)	Order	Mycobacteriales	Actinomycetota	CF22	CF25	98.17073170731709	79.26829268292683	-2.944099378881988	1.0192307692307692	Actinomycetota	328
+Pattern 5 (RNR Alpha)	Order	Actinomycetales	Actinomycetota	CF22	CF25	76.1786600496278	54.83870967741935	-4.429967426710098	1.013574660633484	Actinomycetota	403
+Pattern 5 (RNR Alpha)	Order	Enterobacterales	Pseudomonadota	CF22	CF25	88.0	89.81818181818181	-8.516528925619834	1.0161943319838056	Pseudomonadota	275
+Pattern 5 (RNR Alpha)	Order	Pseudomonadales	Pseudomonadota	CF22	CF25	65.42056074766354	94.0809968847352	-7.076190476190476	1.0	Pseudomonadota	321
+Pattern 5 (RNR Alpha)	Order	Staphylococcales	Bacillota	CF22	CF25	94.35028248587571	5.08474576271186	-5.473053892215569	1.0	Bacillota	177
+Pattern 5 (RNR Alpha)	Order	Lactobacillales	Bacillota	CF22	CF25	62.63157894736842	22.631578947368418	-2.8823529411764706	1.0	Bacillota	190
+Pattern 5 (RNR Alpha)	Order	Burkholderiales	Pseudomonadota	CF22	CF25	41.02564102564102	80.34188034188034	-1.8229166666666667	1.0106382978723405	Pseudomonadota	234
+Pattern 5 (RNR Alpha)	Order	Bacillales	Bacillota	CF22	CF25	100.0	0.0	-7.783333333333333	0.0	Exclusion/Other	60
+Pattern 5 (RNR Alpha)	Order	Xanthomonadales	Pseudomonadota	CF22	CF25	44.91525423728814	2.54237288135593	-1.8113207547169807	1.0	Pseudomonadota	118
+Pattern 5 (RNR Alpha)	Order	Propionibacteriales	Actinomycetota	CF22	CF25	75.0	42.64705882352941	-6.647058823529412	1.103448275862069	Actinomycetota	68
+Pattern 5 (RNR Alpha)	Order	Veillonellales	Bacillota	CF22	CF25	71.9298245614035	22.80701754385964	-1.6341463414634143	1.0	Bacillota	57
+Pattern 5 (RNR Alpha)	Order	Flavobacteriales	Bacteroidota	CF22	CF25	18.47133757961783	70.70063694267516	-1.0	1.0	Bacteroidota	157
+Pattern 5 (RNR Alpha)	Order	Bacillales_A	Bacillota	CF22	CF25	100.0	10.71428571428571	-8.0	1.0	Bacillota	28
+Pattern 5 (RNR Alpha)	Order	Sphingobacteriales	Bacteroidota	CF22	CF25	66.66666666666666	100.0	-1.0	1.0	Bacteroidota	27
+Pattern 5 (RNR Alpha)	Order	Rhizobiales	Pseudomonadota	CF22	CF25	31.70731707317073	87.8048780487805	-1.7692307692307692	1.0277777777777777	Pseudomonadota	41
+Pattern 5 (RNR Alpha)	Order	Rhodobacterales	Pseudomonadota	CF22	CF25	10.8433734939759	97.59036144578313	-1.1111111111111112	1.0246913580246917	Pseudomonadota	83
+Pattern 5 (RNR Alpha)	Order	Legionellales	Pseudomonadota	CF22	CF25	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 5 (RNR Alpha)	Order	Solirubrobacterales	Actinomycetota	CF22	CF25	25.0	100.0	-1.0	1.25	Actinomycetota	12
+Pattern 5 (RNR Alpha)	Order	Chitinophagales	Bacteroidota	CF22	CF25	6.97674418604651	100.0	-1.0	1.0	Bacteroidota	43
+Pattern 5 (RNR Alpha)	Order	Acetobacterales	Pseudomonadota	CF22	CF25	30.0	90.0	-1.6666666666666667	1.0	Pseudomonadota	10
+Pattern 5 (RNR Alpha)	Order	Sphingomonadales	Pseudomonadota	CF22	CF25	1.51515151515151	98.48484848484847	-1.0	1.0076923076923077	Pseudomonadota	132
+Pattern 5 (RNR Alpha)	Order	Caulobacterales	Pseudomonadota	CF22	CF25	1.6129032258064497	100.0	-1.0	1.0	Pseudomonadota	62
+Pattern 5 (RNR Alpha)	Order	Planctomycetales	Planctomycetota	CF22	CF25	14.28571428571428	71.42857142857143	-1.0	1.0	Planctomycetota	7
+Pattern 5 (RNR Alpha)	Order	Bacteroidales	Bacteroidota	CF22	CF25	0.48076923076923	35.57692307692308	-1.0	1.0	Bacteroidota	208
+Pattern 5 (RNR Alpha)	Order	Coriobacteriales	Actinomycetota	CF22	CF25	1.75438596491228	0.0	-1.0	0.0	Exclusion/Other	57
+Pattern 5 (RNR Alpha)	Family	Mycobacteriaceae	Actinomycetota	CF22	CF25	98.46625766871165	79.4478527607362	-2.947040498442368	1.0193050193050193	Actinomycetota	326
+Pattern 5 (RNR Alpha)	Family	Enterobacteriaceae	Pseudomonadota	CF22	CF25	100.0	97.89029535864981	-8.675105485232068	1.012931034482759	Pseudomonadota	237
+Pattern 5 (RNR Alpha)	Family	Staphylococcaceae	Bacillota	CF22	CF25	100.0	5.55555555555555	-5.592592592592593	1.0	Bacillota	162
+Pattern 5 (RNR Alpha)	Family	Micrococcaceae	Actinomycetota	CF22	CF25	91.17647058823528	55.294117647058826	-6.116129032258065	1.0319148936170213	Actinomycetota	170
+Pattern 5 (RNR Alpha)	Family	Moraxellaceae	Pseudomonadota	CF22	CF25	50.0	93.26923076923076	-7.961538461538462	1.0	Pseudomonadota	208
+Pattern 5 (RNR Alpha)	Family	Pseudomonadaceae	Pseudomonadota	CF22	CF25	99.04761904761904	98.09523809523807	-6.269230769230769	1.0	Pseudomonadota	105
+Pattern 5 (RNR Alpha)	Family	Burkholderiaceae	Pseudomonadota	CF22	CF25	42.465753424657535	89.04109589041096	-2.2580645161290325	1.0076923076923077	Pseudomonadota	146
+Pattern 5 (RNR Alpha)	Family	Xanthomonadaceae	Pseudomonadota	CF22	CF25	48.62385321100917	0.0	-1.8113207547169807	0.0	Exclusion/Other	109
+Pattern 5 (RNR Alpha)	Family	Propionibacteriaceae	Actinomycetota	CF22	CF25	85.0	35.0	-6.647058823529412	1.1428571428571428	Actinomycetota	60
+Pattern 5 (RNR Alpha)	Family	Bacillaceae_G	Bacillota	CF22	CF25	100.0	0.0	-7.693877551020408	0.0	Exclusion/Other	49
+Pattern 5 (RNR Alpha)	Family	Lactobacillaceae	Bacillota	CF22	CF25	100.0	0.0	-3.6	0.0	Exclusion/Other	45
+Pattern 5 (RNR Alpha)	Family	Streptococcaceae	Bacillota	CF22	CF25	84.0	20.0	-2.4047619047619047	1.0	Bacillota	50
+Pattern 5 (RNR Alpha)	Family	Actinomycetaceae	Actinomycetota	CF22	CF25	67.79661016949152	25.423728813559322	-3.35	1.0	Actinomycetota	59
+Pattern 5 (RNR Alpha)	Family	Bifidobacteriaceae	Actinomycetota	CF22	CF25	97.22222222222221	0.0	-2.2857142857142856	0.0	Exclusion/Other	36
+Pattern 5 (RNR Alpha)	Family	Neisseriaceae	Pseudomonadota	CF22	CF25	45.83333333333333	58.333333333333336	-1.0303030303030305	1.0238095238095235	Pseudomonadota	72
+Pattern 5 (RNR Alpha)	Family	Enterococcaceae	Bacillota	CF22	CF25	93.93939393939394	21.21212121212121	-2.4516129032258065	1.0	Bacillota	33
+Pattern 5 (RNR Alpha)	Family	Dermatophilaceae	Actinomycetota	CF22	CF25	63.26530612244898	81.63265306122449	-3.3548387096774195	1.0	Actinomycetota	49
+Pattern 5 (RNR Alpha)	Family	Weeksellaceae	Bacteroidota	CF22	CF25	21.64179104477611	70.1492537313433	-1.0	1.0	Bacteroidota	134
+Pattern 5 (RNR Alpha)	Family	Planococcaceae	Bacillota	CF22	CF25	100.0	10.71428571428571	-8.0	1.0	Bacillota	28
+Pattern 5 (RNR Alpha)	Family	Microbacteriaceae	Actinomycetota	CF22	CF25	43.85964912280701	82.45614035087719	-2.24	1.0	Actinomycetota	57
+Pattern 5 (RNR Alpha)	Family	Sphingobacteriaceae	Bacteroidota	CF22	CF25	66.66666666666666	100.0	-1.0	1.0	Bacteroidota	27
+Pattern 5 (RNR Alpha)	Family	Megasphaeraceae	Bacillota	CF22	CF25	100.0	0.0	-1.6875	0.0	Exclusion/Other	16
+Pattern 5 (RNR Alpha)	Family	Dermabacteraceae	Actinomycetota	CF22	CF25	100.0	93.33333333333333	-1.8666666666666667	1.0	Actinomycetota	15
+Pattern 5 (RNR Alpha)	Family	Negativicoccaceae	Bacillota	CF22	CF25	100.0	92.85714285714286	-1.0	1.0	Bacillota	14
+Pattern 5 (RNR Alpha)	Family	Rhizobiaceae	Pseudomonadota	CF22	CF25	61.111111111111114	72.22222222222221	-1.9090909090909087	1.0	Pseudomonadota	18
+Pattern 5 (RNR Alpha)	Family	Rhodobacteraceae	Pseudomonadota	CF22	CF25	10.8433734939759	97.59036144578313	-1.1111111111111112	1.0246913580246917	Pseudomonadota	83
+Pattern 5 (RNR Alpha)	Family	Veillonellaceae	Bacillota	CF22	CF25	100.0	0.0	-2.555555555555556	0.0	Exclusion/Other	9
+Pattern 5 (RNR Alpha)	Family	Bacillaceae	Bacillota	CF22	CF25	100.0	0.0	-8.222222222222221	0.0	Exclusion/Other	9
+Pattern 5 (RNR Alpha)	Family	Legionellaceae	Pseudomonadota	CF22	CF25	100.0	0.0	-1.0	0.0	Exclusion/Other	7
+Pattern 5 (RNR Alpha)	Family	Acetobacteraceae	Pseudomonadota	CF22	CF25	30.0	90.0	-1.6666666666666667	1.0	Pseudomonadota	10
+Pattern 5 (RNR Alpha)	Family	Chitinophagaceae	Bacteroidota	CF22	CF25	7.89473684210526	100.0	-1.0	1.0	Bacteroidota	38
+Pattern 5 (RNR Alpha)	Family	Solirubrobacteraceae	Actinomycetota	CF22	CF25	37.5	100.0	-1.0	1.375	Actinomycetota	8
+Pattern 5 (RNR Alpha)	Family	Brevibacteriaceae	Actinomycetota	CF22	CF25	15.38461538461538	61.53846153846154	-3.0	1.0	Actinomycetota	13
+Pattern 5 (RNR Alpha)	Family	Sphingomonadaceae	Pseudomonadota	CF22	CF25	1.51515151515151	98.48484848484847	-1.0	1.0076923076923077	Pseudomonadota	132
+Pattern 5 (RNR Alpha)	Family	Dialisteraceae	Bacillota	CF22	CF25	11.11111111111111	0.0	-1.5	0.0	Exclusion/Other	18
+Pattern 5 (RNR Alpha)	Family	Rhodocyclaceae	Pseudomonadota	CF22	CF25	6.66666666666666	100.0	-1.0	1.0	Pseudomonadota	15
+Pattern 5 (RNR Alpha)	Family	Planctomycetaceae	Planctomycetota	CF22	CF25	14.28571428571428	71.42857142857143	-1.0	1.0	Planctomycetota	7
+Pattern 5 (RNR Alpha)	Family	Salinicoccaceae	Bacillota	CF22	CF25	9.09090909090909	0.0	-1.0	0.0	Exclusion/Other	11
+Pattern 5 (RNR Alpha)	Family	Porphyromonadaceae	Bacteroidota	CF22	CF25	1.47058823529411	42.64705882352941	-1.0	1.0	Bacteroidota	68
+Pattern 5 (RNR Alpha)	Family	Atopobiaceae	Actinomycetota	CF22	CF25	2.56410256410256	0.0	-1.0	0.0	Exclusion/Other	39
+Pattern 5 (RNR Alpha)	Genus	Corynebacterium	Actinomycetota	CF22	CF25	99.25373134328358	80.59701492537313	-3.0	1.0	Actinomycetota	268
+Pattern 5 (RNR Alpha)	Genus	Staphylococcus	Bacillota	CF22	CF25	100.0	0.0	-5.627586206896551	0.0	Exclusion/Other	145
+Pattern 5 (RNR Alpha)	Genus	Acinetobacter	Pseudomonadota	CF22	CF25	100.0	98.85057471264368	-9.011494252873565	1.0	Pseudomonadota	87
+Pattern 5 (RNR Alpha)	Genus	Rothia	Actinomycetota	CF22	CF25	100.0	35.61643835616438	-7.575342465753424	1.0384615384615383	Actinomycetota	73
+Pattern 5 (RNR Alpha)	Genus	Pantoea	Pseudomonadota	CF22	CF25	100.0	98.11320754716981	-7.20754716981132	1.0384615384615383	Pseudomonadota	53
+Pattern 5 (RNR Alpha)	Genus	Pseudomonas_E	Pseudomonadota	CF22	CF25	100.0	98.0	-8.44	1.0	Pseudomonadota	50
+Pattern 5 (RNR Alpha)	Genus	Klebsiella	Pseudomonadota	CF22	CF25	100.0	98.0	-10.66	1.0	Pseudomonadota	50
+Pattern 5 (RNR Alpha)	Genus	Bacillus_A	Bacillota	CF22	CF25	100.0	0.0	-7.693877551020408	0.0	Exclusion/Other	49
+Pattern 5 (RNR Alpha)	Genus	Kocuria	Actinomycetota	CF22	CF25	100.0	76.08695652173914	-6.478260869565218	1.0285714285714285	Actinomycetota	46
+Pattern 5 (RNR Alpha)	Genus	Cutibacterium	Actinomycetota	CF22	CF25	100.0	7.5	-7.9	1.0	Actinomycetota	40
+Pattern 5 (RNR Alpha)	Genus	Stenotrophomonas	Pseudomonadota	CF22	CF25	94.73684210526316	0.0	-1.7777777777777777	0.0	Exclusion/Other	38
+Pattern 5 (RNR Alpha)	Genus	Bifidobacterium	Actinomycetota	CF22	CF25	97.05882352941177	0.0	-2.242424242424242	0.0	Exclusion/Other	34
+Pattern 5 (RNR Alpha)	Genus	Serratia	Pseudomonadota	CF22	CF25	100.0	100.0	-10.363636363636363	1.0	Pseudomonadota	33
+Pattern 5 (RNR Alpha)	Genus	Lactobacillus	Bacillota	CF22	CF25	100.0	0.0	-2.9	0.0	Exclusion/Other	30
+Pattern 5 (RNR Alpha)	Genus	Streptococcus	Bacillota	CF22	CF25	78.94736842105263	26.31578947368421	-1.3666666666666667	1.0	Bacillota	38
+Pattern 5 (RNR Alpha)	Genus	QFNR01	Pseudomonadota	CF22	CF25	100.0	0.0	-1.0	0.0	Exclusion/Other	30
+Pattern 5 (RNR Alpha)	Genus	Pseudomonas_B	Pseudomonadota	CF22	CF25	100.0	100.0	-3.892857142857143	1.0	Pseudomonadota	28
+Pattern 5 (RNR Alpha)	Genus	Micrococcus	Actinomycetota	CF22	CF25	100.0	76.0	-2.0	1.0	Actinomycetota	25
+Pattern 5 (RNR Alpha)	Genus	Lysinibacillus	Bacillota	CF22	CF25	100.0	0.0	-8.12	0.0	Exclusion/Other	25
+Pattern 5 (RNR Alpha)	Genus	Leclercia	Pseudomonadota	CF22	CF25	100.0	100.0	-7.9	1.0	Pseudomonadota	20
+Pattern 5 (RNR Alpha)	Genus	Mycobacterium	Actinomycetota	CF22	CF25	100.0	94.11764705882352	-3.7058823529411766	1.3125	Actinomycetota	17
+Pattern 5 (RNR Alpha)	Genus	Telluria	Pseudomonadota	CF22	CF25	94.44444444444444	100.0	-1.0	1.0	Pseudomonadota	18
+Pattern 5 (RNR Alpha)	Genus	Empedobacter	Bacteroidota	CF22	CF25	100.0	0.0	-1.0	0.0	Exclusion/Other	17
+Pattern 5 (RNR Alpha)	Genus	Enterococcus_B	Bacillota	CF22	CF25	100.0	17.64705882352941	-3.588235294117647	1.0	Bacillota	17
+Pattern 5 (RNR Alpha)	Genus	Enterobacter	Pseudomonadota	CF22	CF25	100.0	100.0	-7.857142857142857	1.0	Pseudomonadota	14
+Pattern 5 (RNR Alpha)	Genus	Gordonia	Actinomycetota	CF22	CF25	87.5	93.75	-1.5714285714285714	1.0	Actinomycetota	16
+Pattern 5 (RNR Alpha)	Genus	Negativicoccus	Bacillota	CF22	CF25	100.0	100.0	-1.0	1.0	Bacillota	13
+Pattern 5 (RNR Alpha)	Genus	Megasphaera_C	Bacillota	CF22	CF25	100.0	0.0	-1.5384615384615383	0.0	Exclusion/Other	13
+Pattern 5 (RNR Alpha)	Genus	Lawsonella	Actinomycetota	CF22	CF25	100.0	23.07692307692307	-1.0769230769230769	1.0	Actinomycetota	13
+Pattern 5 (RNR Alpha)	Genus	Sphingobacterium	Bacteroidota	CF22	CF25	100.0	100.0	-1.0	1.0	Bacteroidota	13
+Pattern 5 (RNR Alpha)	Genus	Lautropia	Pseudomonadota	CF22	CF25	100.0	91.66666666666666	-2.0	1.0	Pseudomonadota	12
+Pattern 5 (RNR Alpha)	Genus	Lactococcus	Bacillota	CF22	CF25	100.0	0.0	-5.0	0.0	Exclusion/Other	12
+Pattern 5 (RNR Alpha)	Genus	Comamonas	Pseudomonadota	CF22	CF25	100.0	100.0	-6.166666666666667	1.0833333333333333	Pseudomonadota	12
+Pattern 5 (RNR Alpha)	Genus	Stutzerimonas	Pseudomonadota	CF22	CF25	100.0	100.0	-1.0	1.0	Pseudomonadota	12
+Pattern 5 (RNR Alpha)	Genus	Enterococcus	Bacillota	CF22	CF25	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Actinomyces	Actinomycetota	CF22	CF25	83.33333333333334	16.66666666666666	-3.1	1.0	Actinomycetota	12
+Pattern 5 (RNR Alpha)	Genus	JASLIR01	Pseudomonadota	CF22	CF25	100.0	100.0	-2.9	1.0	Pseudomonadota	10
+Pattern 5 (RNR Alpha)	Genus	Yokenella	Pseudomonadota	CF22	CF25	100.0	100.0	-9.8	1.0	Pseudomonadota	10
+Pattern 5 (RNR Alpha)	Genus	Dermacoccus	Actinomycetota	CF22	CF25	100.0	100.0	-7.1	1.0	Actinomycetota	10
+Pattern 5 (RNR Alpha)	Genus	Pluralibacter	Pseudomonadota	CF22	CF25	100.0	100.0	-10.8	1.0	Pseudomonadota	10
+Pattern 5 (RNR Alpha)	Genus	Pelomonas	Pseudomonadota	CF22	CF25	100.0	0.0	-1.0	0.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Janibacter	Actinomycetota	CF22	CF25	100.0	44.44444444444444	-1.0	1.0	Actinomycetota	9
+Pattern 5 (RNR Alpha)	Genus	Pseudoclavibacter	Actinomycetota	CF22	CF25	100.0	100.0	-3.2222222222222223	1.0	Actinomycetota	9
+Pattern 5 (RNR Alpha)	Genus	Gulosibacter	Actinomycetota	CF22	CF25	100.0	66.66666666666666	-1.3333333333333333	1.0	Actinomycetota	9
+Pattern 5 (RNR Alpha)	Genus	Chryseobacterium	Bacteroidota	CF22	CF25	39.130434782608695	60.86956521739131	-1.0	1.0	Bacteroidota	23
+Pattern 5 (RNR Alpha)	Genus	Dermabacter	Actinomycetota	CF22	CF25	100.0	88.88888888888889	-1.0	1.0	Actinomycetota	9
+Pattern 5 (RNR Alpha)	Genus	Varibaculum	Actinomycetota	CF22	CF25	100.0	0.0	-3.0	0.0	Exclusion/Other	9
+Pattern 5 (RNR Alpha)	Genus	Bacillus	Bacillota	CF22	CF25	100.0	0.0	-8.222222222222221	0.0	Exclusion/Other	9
+Pattern 5 (RNR Alpha)	Genus	Neomicrococcus	Actinomycetota	CF22	CF25	100.0	100.0	-4.0	1.0	Actinomycetota	9
+Pattern 5 (RNR Alpha)	Genus	Xanthomonas	Pseudomonadota	CF22	CF25	100.0	0.0	-2.75	0.0	Exclusion/Other	8
+Pattern 5 (RNR Alpha)	Genus	Mammaliicoccus	Bacillota	CF22	CF25	100.0	0.0	-6.75	0.0	Exclusion/Other	8
+Pattern 5 (RNR Alpha)	Genus	Winkia	Actinomycetota	CF22	CF25	100.0	100.0	-4.125	1.0	Actinomycetota	8
+Pattern 5 (RNR Alpha)	Genus	Duffyella	Pseudomonadota	CF22	CF25	100.0	100.0	-7.0	1.125	Pseudomonadota	8
+Pattern 5 (RNR Alpha)	Genus	Yimella	Actinomycetota	CF22	CF25	88.88888888888889	66.66666666666666	-2.25	1.0	Actinomycetota	9
+Pattern 5 (RNR Alpha)	Genus	Metapseudomonas	Pseudomonadota	CF22	CF25	100.0	87.5	-7.75	1.0	Pseudomonadota	8
+Pattern 5 (RNR Alpha)	Genus	Microbacterium	Actinomycetota	CF22	CF25	18.91891891891892	83.78378378378379	-2.142857142857143	1.0	Actinomycetota	37
+Pattern 5 (RNR Alpha)	Genus	Leuconostoc	Bacillota	CF22	CF25	100.0	0.0	-4.857142857142857	0.0	Exclusion/Other	7
+Pattern 5 (RNR Alpha)	Genus	Macrococcoides	Bacillota	CF22	CF25	100.0	100.0	-3.857142857142857	1.0	Bacillota	7
+Pattern 5 (RNR Alpha)	Genus	Pseudomonas	Pseudomonadota	CF22	CF25	100.0	100.0	-7.833333333333333	1.0	Pseudomonadota	6
+Pattern 5 (RNR Alpha)	Genus	Brachybacterium	Actinomycetota	CF22	CF25	100.0	100.0	-3.1666666666666665	1.0	Actinomycetota	6
+Pattern 5 (RNR Alpha)	Genus	Ottowia	Pseudomonadota	CF22	CF25	33.33333333333333	100.0	-1.0	1.0	Pseudomonadota	15
+Pattern 5 (RNR Alpha)	Genus	Paracoccus	Pseudomonadota	CF22	CF25	11.9047619047619	97.61904761904762	-1.0	1.0	Pseudomonadota	42
+Pattern 5 (RNR Alpha)	Genus	Pedobacter	Bacteroidota	CF22	CF25	35.71428571428571	100.0	-1.0	1.0	Bacteroidota	14
+Pattern 5 (RNR Alpha)	Genus	Amaricoccus	Pseudomonadota	CF22	CF25	50.0	100.0	-1.25	1.25	Pseudomonadota	8
+Pattern 5 (RNR Alpha)	Genus	Moraxella_A	Pseudomonadota	CF22	CF25	5.769230769230759	96.15384615384616	-1.3333333333333333	1.0	Pseudomonadota	52
+Pattern 5 (RNR Alpha)	Genus	Aestuariimicrobium	Actinomycetota	CF22	CF25	50.0	100.0	-1.0	1.1666666666666667	Actinomycetota	6
+Pattern 5 (RNR Alpha)	Genus	Sphingomonas	Pseudomonadota	CF22	CF25	6.66666666666666	100.0	-1.0	1.0	Pseudomonadota	30
+Pattern 5 (RNR Alpha)	Genus	Brevibacterium	Actinomycetota	CF22	CF25	15.38461538461538	61.53846153846154	-3.0	1.0	Actinomycetota	13
+Pattern 5 (RNR Alpha)	Genus	Dialister	Bacillota	CF22	CF25	11.11111111111111	0.0	-1.5	0.0	Exclusion/Other	18
+Pattern 5 (RNR Alpha)	Genus	Solilutibacter	Pseudomonadota	CF22	CF25	6.66666666666666	0.0	-1.0	0.0	Exclusion/Other	15
+Pattern 5 (RNR Alpha)	Genus	Porphyromonas_A	Bacteroidota	CF22	CF25	4.0	76.0	-1.0	1.0	Bacteroidota	25
+Pattern 5 (RNR Alpha)	Genus	Fannyhessea	Actinomycetota	CF22	CF25	4.76190476190476	0.0	-1.0	0.0	Exclusion/Other	21
+Pattern 5 (RNR Alpha)	Genus	Psychrobacter	Pseudomonadota	CF22	CF25	5.26315789473684	100.0	-2.0	1.0	Pseudomonadota	19
+Pattern 5 (RNR Alpha)	Phylum	Deinococcota	Deinococcota	CF22	CF25	0.0	92.85714285714286	0.0	1.0	Exclusion/Other	28
+Pattern 5 (RNR Alpha)	Phylum	Campylobacterota	Campylobacterota	CF22	CF25	0.0	80.0	0.0	1.0	Exclusion/Other	25
+Pattern 5 (RNR Alpha)	Phylum	Myxococcota	Myxococcota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	17
+Pattern 5 (RNR Alpha)	Phylum	Vulcanimicrobiota	Vulcanimicrobiota	CF22	CF25	0.0	86.66666666666667	0.0	1.0	Exclusion/Other	15
+Pattern 5 (RNR Alpha)	Phylum	Bdellovibrionota	Bdellovibrionota	CF22	CF25	0.0	25.0	0.0	1.0	Exclusion/Other	48
+Pattern 5 (RNR Alpha)	Phylum	Patescibacteriota	Patescibacteriota	CF22	CF25	0.0	13.43283582089552	0.0	1.0	Exclusion/Other	67
+Pattern 5 (RNR Alpha)	Phylum	Cyanobacteriota	Cyanobacteriota	CF22	CF25	0.0	57.14285714285714	0.0	1.0	Exclusion/Other	14
+Pattern 5 (RNR Alpha)	Phylum	Bacteroidota_A	Bacteroidota_A	CF22	CF25	0.0	25.0	0.0	1.0	Exclusion/Other	8
+Pattern 5 (RNR Alpha)	Phylum	Verrucomicrobiota	Verrucomicrobiota	CF22	CF25	0.0	22.22222222222222	0.0	1.0	Exclusion/Other	9
+Pattern 5 (RNR Alpha)	Class	Clostridia	Bacillota	CF22	CF25	0.0	51.985559566786996	0.0	1.0208333333333333	Exclusion/Other	277
+Pattern 5 (RNR Alpha)	Class	Deinococci	Deinococcota	CF22	CF25	0.0	92.85714285714286	0.0	1.0	Exclusion/Other	28
+Pattern 5 (RNR Alpha)	Class	Campylobacteria	Campylobacterota	CF22	CF25	0.0	80.0	0.0	1.0	Exclusion/Other	25
+Pattern 5 (RNR Alpha)	Class	Xenobia	Vulcanimicrobiota	CF22	CF25	0.0	86.66666666666667	0.0	1.0	Exclusion/Other	15
+Pattern 5 (RNR Alpha)	Class	Saccharimonadia	Patescibacteriota	CF22	CF25	0.0	15.0	0.0	1.0	Exclusion/Other	60
+Pattern 5 (RNR Alpha)	Class	UBA727	Myxococcota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	9
+Pattern 5 (RNR Alpha)	Class	Bacteriovoracia	Bdellovibrionota	CF22	CF25	0.0	53.84615384615385	0.0	1.0	Exclusion/Other	13
+Pattern 5 (RNR Alpha)	Class	Sericytochromatia	Cyanobacteriota	CF22	CF25	0.0	50.0	0.0	1.0	Exclusion/Other	12
+Pattern 5 (RNR Alpha)	Class	Polyangia	Myxococcota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 5 (RNR Alpha)	Class	Bdellovibrionia	Bdellovibrionota	CF22	CF25	0.0	12.5	0.0	1.0	Exclusion/Other	32
+Pattern 5 (RNR Alpha)	Class	Verrucomicrobiia	Verrucomicrobiota	CF22	CF25	0.0	22.22222222222222	0.0	1.0	Exclusion/Other	9
+Pattern 5 (RNR Alpha)	Class	Rhodothermia	Bacteroidota_A	CF22	CF25	0.0	14.28571428571428	0.0	1.0	Exclusion/Other	7
+Pattern 5 (RNR Alpha)	Order	Tissierellales	Bacillota	CF22	CF25	0.0	77.8409090909091	0.0	1.0145985401459854	Exclusion/Other	176
+Pattern 5 (RNR Alpha)	Order	Deinococcales	Deinococcota	CF22	CF25	0.0	92.85714285714286	0.0	1.0	Exclusion/Other	28
+Pattern 5 (RNR Alpha)	Order	Campylobacterales	Campylobacterota	CF22	CF25	0.0	80.0	0.0	1.0	Exclusion/Other	25
+Pattern 5 (RNR Alpha)	Order	Micavibrionales	Pseudomonadota	CF22	CF25	0.0	50.0	0.0	1.0	Exclusion/Other	38
+Pattern 5 (RNR Alpha)	Order	Xenobiales	Vulcanimicrobiota	CF22	CF25	0.0	86.66666666666667	0.0	1.0	Exclusion/Other	15
+Pattern 5 (RNR Alpha)	Order	Cytophagales	Bacteroidota	CF22	CF25	0.0	52.63157894736842	0.0	1.0	Exclusion/Other	19
+Pattern 5 (RNR Alpha)	Order	Saccharimonadales	Patescibacteriota	CF22	CF25	0.0	15.0	0.0	1.0	Exclusion/Other	60
+Pattern 5 (RNR Alpha)	Order	UBA727	Myxococcota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	9
+Pattern 5 (RNR Alpha)	Order	Saccharofermentanales	Bacillota	CF22	CF25	0.0	50.0	0.0	1.1428571428571428	Exclusion/Other	14
+Pattern 5 (RNR Alpha)	Order	Bacteriovoracales	Bdellovibrionota	CF22	CF25	0.0	53.84615384615385	0.0	1.0	Exclusion/Other	13
+Pattern 5 (RNR Alpha)	Order	Polyangiales	Myxococcota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 5 (RNR Alpha)	Order	UBA7694	Cyanobacteriota	CF22	CF25	0.0	50.0	0.0	1.0	Exclusion/Other	12
+Pattern 5 (RNR Alpha)	Order	Bdellovibrionales	Bdellovibrionota	CF22	CF25	0.0	12.5	0.0	1.0	Exclusion/Other	32
+Pattern 5 (RNR Alpha)	Order	Rhodothermales	Bacteroidota_A	CF22	CF25	0.0	14.28571428571428	0.0	1.0	Exclusion/Other	7
+Pattern 5 (RNR Alpha)	Family	Peptoniphilaceae	Bacillota	CF22	CF25	0.0	77.8409090909091	0.0	1.0145985401459854	Exclusion/Other	176
+Pattern 5 (RNR Alpha)	Family	Caulobacteraceae	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	61
+Pattern 5 (RNR Alpha)	Family	Bacteroidaceae	Bacteroidota	CF22	CF25	0.0	35.483870967741936	0.0	1.0	Exclusion/Other	124
+Pattern 5 (RNR Alpha)	Family	Aerococcaceae	Bacillota	CF22	CF25	0.0	61.904761904761905	0.0	1.0	Exclusion/Other	42
+Pattern 5 (RNR Alpha)	Family	Deinococcaceae	Deinococcota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	25
+Pattern 5 (RNR Alpha)	Family	Campylobacteraceae	Campylobacterota	CF22	CF25	0.0	80.0	0.0	1.0	Exclusion/Other	25
+Pattern 5 (RNR Alpha)	Family	Beijerinckiaceae	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	17
+Pattern 5 (RNR Alpha)	Family	Flavobacteriaceae	Bacteroidota	CF22	CF25	0.0	85.0	0.0	1.0	Exclusion/Other	20
+Pattern 5 (RNR Alpha)	Family	Micavibrionaceae	Pseudomonadota	CF22	CF25	0.0	62.5	0.0	1.0	Exclusion/Other	24
+Pattern 5 (RNR Alpha)	Family	JADMJV01	Vulcanimicrobiota	CF22	CF25	0.0	86.66666666666667	0.0	1.0	Exclusion/Other	15
+Pattern 5 (RNR Alpha)	Family	Pasteurellaceae	Pseudomonadota	CF22	CF25	0.0	55.00000000000001	0.0	1.0909090909090908	Exclusion/Other	20
+Pattern 5 (RNR Alpha)	Family	VGSZ01	Myxococcota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	9
+Pattern 5 (RNR Alpha)	Family	Nocardioidaceae	Actinomycetota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	8
+Pattern 5 (RNR Alpha)	Family	Bacteriovoracaceae	Bdellovibrionota	CF22	CF25	0.0	53.84615384615385	0.0	1.0	Exclusion/Other	13
+Pattern 5 (RNR Alpha)	Family	UBA9547	Bacteroidota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 5 (RNR Alpha)	Family	DTU023	Bacillota	CF22	CF25	0.0	100.0	0.0	1.1666666666666667	Exclusion/Other	6
+Pattern 5 (RNR Alpha)	Family	Polyangiaceae	Myxococcota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 5 (RNR Alpha)	Family	UBA7694	Cyanobacteriota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 5 (RNR Alpha)	Family	Saccharimonadaceae	Patescibacteriota	CF22	CF25	0.0	33.33333333333333	0.0	1.0	Exclusion/Other	15
+Pattern 5 (RNR Alpha)	Family	UBA2020	Pseudomonadota	CF22	CF25	0.0	30.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Family	JAMPXM01	Bdellovibrionota	CF22	CF25	0.0	18.18181818181818	0.0	1.0	Exclusion/Other	11
+Pattern 5 (RNR Alpha)	Family	Fastidiosipilaceae	Bacillota	CF22	CF25	0.0	12.5	0.0	1.0	Exclusion/Other	8
+Pattern 5 (RNR Alpha)	Genus	Brevundimonas	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	47
+Pattern 5 (RNR Alpha)	Genus	Prevotella	Bacteroidota	CF22	CF25	0.0	44.44444444444444	0.0	1.0	Exclusion/Other	99
+Pattern 5 (RNR Alpha)	Genus	Neisseria	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0256410256410255	Exclusion/Other	39
+Pattern 5 (RNR Alpha)	Genus	Anaerococcus	Bacillota	CF22	CF25	0.0	89.47368421052632	0.0	1.0588235294117647	Exclusion/Other	38
+Pattern 5 (RNR Alpha)	Genus	Moraxella	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	25
+Pattern 5 (RNR Alpha)	Genus	Deinococcus	Deinococcota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	25
+Pattern 5 (RNR Alpha)	Genus	Finegoldia	Bacillota	CF22	CF25	0.0	95.83333333333334	0.0	1.0	Exclusion/Other	24
+Pattern 5 (RNR Alpha)	Genus	Epilithonimonas	Bacteroidota	CF22	CF25	0.0	95.65217391304348	0.0	1.0	Exclusion/Other	23
+Pattern 5 (RNR Alpha)	Genus	Kaistella	Bacteroidota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	22
+Pattern 5 (RNR Alpha)	Genus	Peptoniphilus_A	Bacillota	CF22	CF25	0.0	74.07407407407408	0.0	1.0	Exclusion/Other	27
+Pattern 5 (RNR Alpha)	Genus	Fenollaria	Bacillota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	20
+Pattern 5 (RNR Alpha)	Genus	Sandaracinobacteroides	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	20
+Pattern 5 (RNR Alpha)	Genus	Haematobacter	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	19
+Pattern 5 (RNR Alpha)	Genus	Aquincola	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	19
+Pattern 5 (RNR Alpha)	Genus	Aquabacterium	Pseudomonadota	CF22	CF25	0.0	82.6086956521739	0.0	1.0	Exclusion/Other	23
+Pattern 5 (RNR Alpha)	Genus	Campylobacter_B	Campylobacterota	CF22	CF25	0.0	85.0	0.0	1.0	Exclusion/Other	20
+Pattern 5 (RNR Alpha)	Genus	Aerococcus	Bacillota	CF22	CF25	0.0	87.5	0.0	1.0	Exclusion/Other	16
+Pattern 5 (RNR Alpha)	Genus	Bosea	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	12
+Pattern 5 (RNR Alpha)	Genus	Nemorincola	Bacteroidota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	12
+Pattern 5 (RNR Alpha)	Genus	Ezakiella	Bacillota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	11
+Pattern 5 (RNR Alpha)	Genus	Aedoeadaptatus	Bacillota	CF22	CF25	0.0	36.66666666666666	0.0	1.0	Exclusion/Other	30
+Pattern 5 (RNR Alpha)	Genus	Haemophilus_D	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0909090909090908	Exclusion/Other	11
+Pattern 5 (RNR Alpha)	Genus	Acidovorax	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	11
+Pattern 5 (RNR Alpha)	Genus	Azonexus	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Novosphingopyxis	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	JAGLBA01	Bacteroidota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Murdochiella	Bacillota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Cruoricaptor	Bacteroidota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Ferruginibacter	Bacteroidota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Janibacter_A	Actinomycetota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Sphingopyxis	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Porphyromonas	Bacteroidota	CF22	CF25	0.0	23.25581395348837	0.0	1.0	Exclusion/Other	43
+Pattern 5 (RNR Alpha)	Genus	Unclassified_Caulobacteraceae	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Allosphingosinicella	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Flavobacterium	Bacteroidota	CF22	CF25	0.0	75.0	0.0	1.0	Exclusion/Other	12
+Pattern 5 (RNR Alpha)	Genus	VGSZ01	Myxococcota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	9
+Pattern 5 (RNR Alpha)	Genus	Unclassified_Sphingomonadaceae	Pseudomonadota	CF22	CF25	0.0	90.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Diaphorobacter	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	9
+Pattern 5 (RNR Alpha)	Genus	JAEXNA01	Vulcanimicrobiota	CF22	CF25	0.0	81.81818181818183	0.0	1.0	Exclusion/Other	11
+Pattern 5 (RNR Alpha)	Genus	Capnocytophaga	Bacteroidota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	8
+Pattern 5 (RNR Alpha)	Genus	Micavibrio_B	Pseudomonadota	CF22	CF25	0.0	80.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Peredibacter	Bdellovibrionota	CF22	CF25	0.0	70.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Rhodobacter_F	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	7
+Pattern 5 (RNR Alpha)	Genus	Blastomonas	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.1428571428571428	Exclusion/Other	7
+Pattern 5 (RNR Alpha)	Genus	JAVVHE01	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 5 (RNR Alpha)	Genus	CAJYHH01	Cyanobacteriota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 5 (RNR Alpha)	Genus	Eremococcus	Bacillota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 5 (RNR Alpha)	Genus	Rhodoferax_C	Pseudomonadota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 5 (RNR Alpha)	Genus	Flavihumibacter	Bacteroidota	CF22	CF25	0.0	100.0	0.0	1.0	Exclusion/Other	6
+Pattern 5 (RNR Alpha)	Genus	Saccharimonas	Patescibacteriota	CF22	CF25	0.0	33.33333333333333	0.0	1.0	Exclusion/Other	15
+Pattern 5 (RNR Alpha)	Genus	CAJYOV01	Bdellovibrionota	CF22	CF25	0.0	20.0	0.0	1.0	Exclusion/Other	10
+Pattern 5 (RNR Alpha)	Genus	Unclassified_UBA2020	Pseudomonadota	CF22	CF25	0.0	14.28571428571428	0.0	1.0	Exclusion/Other	7

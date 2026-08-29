@@ -1,0 +1,32 @@
+module	cf_id	original_pog	N	keyword	mi	mi_z	spearman_r
+module1	CF0	pog0	3608	L-methionine/D-methionine ABC transporter membrane subunit ;  ; glycine betaine ABC transporter membrane subunit YehY ; glycine betaine ABC transporter membrane subunit ProW	0.138680545889304	1351.82368888739	0.510663493259716
+module1	CF8	pog8	1330	L-methionine/D-methionine ABC transporter membrane anchored binding protein ; lipoprotein-28	0.114426329335717	1336.14714401257	0.464762701900435
+module1	CF12	pog14	56	L-methionine/D-methionine ABC transporter ATP binding subunit ; putative ABC transporter ATP-binding subunit YhdZ	0.111075536068227	930.003034785857	0.461649594107165
+module10	CF13	pog15	40	energy-dependent translational throttle protein EttA ; ATP-binding protein Uup ; glucosyl-oleandomycin-exporting ATPase ; putative ATP-binding protein YheS ; putative ATP-binding protein YbiT	0.0812053363723617	695.28647571402	0.389158974262369
+module10	CF14	pog16	28	protein chain elongation factor EF-Ts	0.0998103122989553	911.312602174691	0.43542554422199
+module10	CF24	pog28	1	30S ribosomal subunit maturation GTPase Era	0.0722014245467983	659.22095045805	0.367662273273959
+module11	CF15_17	pog17	18	RNase adaptor protein RapZ	0.072067133768047	770.030754173112	0.375336105567502
+module11	CF15_19	pog19	8	RNase adaptor protein RapZ	0.0743543561576185	770.030754173112	0.381074781216175
+module12	CF16	pog18	15	tRNA (cytidine/uridine-2'-O)-ribose methyltransferase	0.0768821573575416	537.498020639567	0.385196976477489
+module13	CF17_20	pog20	7	L-serine deaminase III ; L-serine deaminase I ;	0.0837244319735539	634.952381787071	0.403235306230793
+module13	CF17_23	pog23	4	L-serine deaminase II	0.086214559392471	634.952381787071	0.407580959534729
+module14	CF18	pog21	7	large conductance mechanosensitive channel	0.0718214873646197	634.929702842575	0.374718495827494
+module15	CF20	pog24	4	30S ribosomal subunit protein S18	0.0745316529371518	826.604542890606	0.37622021601148
+module16	CF21	pog25	4	uncharacterized protein YpfJ	0.0689660854842904	691.513658516305	0.365107951770186
+module17	CF23	pog27	1	PF03458 family inner membrane protein YicG	0.0776838415946353	686.567258818124	0.386827876617844
+module18	CF26	pog30	1	S-ribosylhomocysteine lyase	0.083160502558302	751.222132667492	0.383554744167893
+module2	CF1	pog1	3006	uracil-DNA glycosylase ;	0.137995493077381	1353.75977229245	0.512383219857451
+module3	CF3	pog2	2565	branched chain amino acid transporter BrnQ	0.102294362035113	967.190053343864	0.433718523449906
+module4	CF4	pog3	2545	putative luciferase-like monooxygenase YhbW	0.102035764015691	1170.80597529952	0.443135404846254
+module4	CF7	pog7	1565	catalase monomer ; CAT2 subunit ; catalase HPII	0.0865587746811585	820.007041840842	0.408930243915575
+module5	CF2_4	pog4	2473	pyrimidine:H+ symporter ; uracil:H+ symporter UraA ;  ; leaf permease	0.119961722676802	944.10346180249	0.476347582620216
+module5	CF6	pog6	1677	adenine:H+ symporter ; adenine transporter	0.0890127511850416	807.982798577524	0.415249281058765
+module5	CF2_10	pog10	427	urate:H+ symporter ;	0.090485177401332	944.10346180249	0.413177620006586
+module6	CF5	pog5	1986	uracil phosphoribosyltransferase	0.092972436716531	991.543417910663	0.424443904934946
+module7	CF9_9	pog9	537	IMPACT family member YigZ ;	0.102644701601622	930.704547809922	0.44476443914497
+module7	CF9_12	pog12	134	IMPACT family member YigZ ;	0.103807781929706	930.704547809922	0.446413731817174
+module8	CF10	pog11	212	ribonucleoside-diphosphate reductase 2 subunit	0.0784456151985218	1145.54695363919	0.377516306308992
+module8	CF22	pog26	2	ribonucleoside-diphosphate reductase 2 subunit	0.0748005781955232	634.753673961454	0.368895424534985
+module8	CF25	pog29	1	ribonucleoside-diphosphate reductase 2 subunit	0.0757709788712724	575.227155976008	0.371461205903198
+module9	CF11	pog13	71	fructose-specific PTS multiphosphoryl transfer protein FruA	0.0762972441781766	963.244674399448	0.373657833089482
+module9	CF19	pog22	5	; CP4-6 prophage; S-methyl-L-methionine transporter	0.0723932609083793	633.408300571344	0.369355934280005

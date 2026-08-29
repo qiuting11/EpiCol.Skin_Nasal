@@ -1,0 +1,16 @@
+molecule	gene	start	end	strand	type
+Peptococcus niger (human2946)	blank_window	243330	248330	forward	blank
+Peptococcus niger (human2946)	p235	245053	245721	forward	sdaAB (Beta)
+Peptococcus niger (human2946)	p236	245732	246607	forward	sdaAA (Alpha)
+Enterococcus faecalis (human1001)	blank_window	39258	44258	forward	blank
+Enterococcus faecalis (human1001)	p1427	40951	41658	forward	sdaAB (Beta)
+Enterococcus faecalis (human1001)	p1428	41673	42566	forward	sdaAA (Alpha)
+Staphylococcus hominis (human1)	blank_window	118789	123789	forward	blank
+Staphylococcus hominis (human1)	p1956	120488	121174	forward	sdaAB (Beta)
+Staphylococcus hominis (human1)	p1957	121188	122090	forward	sdaAA (Alpha)
+Cutibacterium modestum (human102)	blank_window	103835	108835	forward	blank
+Cutibacterium modestum (human102)	p1293	105620	107050	forward	sdaA (Fused)
+Corynebacterium kefirresidentii (human0)	blank_window	21420	26420	forward	blank
+Corynebacterium kefirresidentii (human0)	p1992	23234	24607	forward	sdaA (Fused)
+Pseudomonas vlassakiae (human246)	blank_window	21745	26745	forward	blank
+Pseudomonas vlassakiae (human246)	p1257	23557	24933	reverse	sdaA (Fused)

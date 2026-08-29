@@ -1,0 +1,31 @@
+# R/session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Generated outputs
+outputs/**
+!outputs/
+!outputs/**/
+!outputs/**/.gitkeep
+
+# Large external data placeholders
+data/external/**
+!data/external/.gitkeep
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Compressed archives generated during transfer
+*.zip
+*.tar
+*.tar.gz
+*.7z
