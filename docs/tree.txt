@@ -38,7 +38,6 @@ paper_submission_code/
   data/figure5/metNIQ_absolute_synteny_data_fixed.tsv
   data/figure5/sda_synteny_clean_core_only_scaled.tsv
   docs/data_availability.md
-  docs/Figure3D_three_genus_pcoa_caption_methods.md
   docs/repository_manifest.tsv
   docs/tree.txt
   outputs/.gitkeep
